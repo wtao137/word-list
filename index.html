@@ -14,7 +14,7 @@
 <link rel="manifest" href="./manifest.webmanifest"/>
 <link rel="icon" sizes="any" type="image/svg+xml" href="./icons/lexicon.svg"/>
 <link rel="apple-touch-icon" href="./icons/icon-192.png"/>
-<title>Lexicon v28 · Vocabulary Studio</title>
+<title>Lexicon v29 · Vocabulary Studio</title>
 <script>(function(){try{var t=localStorage.getItem('lexicon-theme-v6')||'system';document.documentElement.dataset.theme=t==='dark'||t==='system'&&matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}catch(e){document.documentElement.dataset.theme=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}})();</script><style>
 
 :root{--bg:#f7f8f4;--side:#f0f3ed;--card:#fff;--line:#e4e9e1;--ink:#223d30;--body:#3f5549;--muted:#8a9a8d;--accent:#315f45;--accent-light:#e8f0e7;--gold:#a17947;--gold-bg:#f7f0e5;--serif:"Libertinus Serif","LibertinusSerif",Georgia,serif;--sans:Inter,"Segoe UI","Microsoft YaHei",system-ui,sans-serif}
@@ -1103,6 +1103,110 @@ html[data-theme="dark"] .root-type-card,html[data-theme="dark"] .root-lesson-car
 @media(max-width:750px){.pwa-network{font-size:0;max-width:25px;min-width:25px;min-height:27px;justify-content:center;padding:5px}.pwa-network i{flex-basis:7px}.pwa-install{min-height:30px;padding:5px 8px}.pwa-install svg{width:14px;height:14px}.pwa-install span{font-size:10px}.top-right{gap:4px}.pwa-controls{gap:5px}.pwa-notice{right:13px;bottom:13px}}
 @media(max-width:440px){.pwa-install span{display:none}.pwa-install{min-width:31px}.pwa-help-dialog{padding:21px 17px}}
 @media(prefers-reduced-motion:reduce){.pwa-install{transition:none}}
+
+/* ============================================================================
+   v29 | Focus, search spacing, visual consistency
+   One visible focus indicator per field, with comfortable breathing room.
+   Focus feedback appears on the visual input surface, not inside a nested input.
+   ============================================================================ */
+:root{--lex-control-ring:color-mix(in srgb,var(--accent) 15%,transparent)}
+[data-theme="dark"]{--lex-control-ring:color-mix(in srgb,var(--focus) 18%,transparent)}
+/* Search controls are a section in their own right, never flush to results. */
+.lex-query-tools{
+ margin-block:20px 24px;
+ padding:18px;
+ border-radius:14px;
+ box-shadow:0 5px 18px color-mix(in srgb,var(--ink) 5%,transparent);
+}
+.lex-query-tools[data-active="true"]{
+ box-shadow:0 6px 20px color-mix(in srgb,var(--ink) 6%,transparent);
+}
+.lex-query-tools .lex-query-head{margin-bottom:15px;column-gap:14px;row-gap:9px;align-items:center}
+.lex-query-tools .lex-query-summary{margin-top:15px}
+.lex-query-tools .prep-tools,
+.lex-query-tools .sem-filterbar,
+.lex-query-tools .atlas-toolbar,
+.lex-query-tools .root-filterbar,
+.lex-query-tools .learner-tools,
+.lex-query-tools .dialect-tools{row-gap:12px;column-gap:12px}
+/* Borders and backgrounds cannot visually collide with adjacent items. */
+.lex-query-tools + :is(.prep-map-body,.sem-index,.dialect-grid,.learner-grid,.root-disclaimer,.morph-method,.atlas-trail){margin-top:18px}
+/* Both semantic and preposition inputs previously drew an input outline INSIDE
+   a second wrapper ring. Only the wrapper should indicate focus. */
+.lex-query-tools :is(.root-find,.atlas-find,.sem-search-shell,.prep-search,.contrast-search){
+ min-height:48px;
+ transition:border-color .14s ease,box-shadow .14s ease,background-color .14s ease;
+}
+.lex-query-tools :is(.root-find,.atlas-find,.sem-search-shell,.prep-search,.contrast-search) :is(input[type="search"],input[type="text"]):focus,
+.lex-query-tools :is(.root-find,.atlas-find,.sem-search-shell,.prep-search,.contrast-search) :is(input[type="search"],input[type="text"]):focus-visible{
+ outline:none!important;
+ outline-offset:0!important;
+ box-shadow:none!important;
+ border:0;
+ border-radius:0;
+}
+.lex-query-tools :is(.root-find,.atlas-find,.sem-search-shell,.prep-search,.contrast-search):focus-within{
+ outline:none!important;
+ border-color:var(--accent);
+ box-shadow:0 0 0 3px var(--lex-control-ring);
+ background:var(--card);
+}
+/* Directly bordered fields need their own single focus ring. */
+.lex-query-tools :is(.dialect-search,.learner-search):focus,
+.lex-query-tools :is(.dialect-search,.learner-search):focus-visible{
+ outline:none!important;
+ border-color:var(--accent);
+ box-shadow:0 0 0 3px var(--lex-control-ring);
+}
+/* The main exploration search is also a compound control. */
+.filter .find-line #search:focus,.filter .find-line #search:focus-visible{
+ outline:none!important;box-shadow:none!important;border:0;
+}
+.filter .find-line:focus-within{
+ border-color:var(--accent);
+ box-shadow:0 0 0 3px var(--lex-control-ring);
+}
+/* Search focus and filter-active states communicate different information.
+   Focus ring has priority even while a filter is applied. */
+.lex-query-tools[data-active="true"] :is(.root-find,.atlas-find,.sem-search-shell,.prep-search,.contrast-search):focus-within,
+.lex-query-tools[data-active="true"] :is(.dialect-search,.learner-search):focus{
+ border-color:var(--accent);
+ box-shadow:0 0 0 3px var(--lex-control-ring);
+}
+/* Improve nested filter readability without adding a second focus halo. */
+.lex-query-tools :is(.prep-search,.sem-search-shell,.atlas-find,.root-find) input::placeholder{opacity:1;color:var(--muted);font-weight:400}
+.lex-query-tools .prep-search{font-size:0}
+.lex-query-tools .prep-search::before{
+ content:"";display:inline-block;flex:0 0 16px;width:16px;height:16px;
+ background:currentColor;opacity:.72;
+ -webkit-mask:url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="1.9" stroke-linecap="round"%3E%3Ccircle cx="10.5" cy="10.5" r="6.5"/%3E%3Cpath d="m15.5 15.5 5 5"/%3E%3C/svg%3E') center/contain no-repeat;
+ mask:url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="1.9" stroke-linecap="round"%3E%3Ccircle cx="10.5" cy="10.5" r="6.5"/%3E%3Cpath d="m15.5 15.5 5 5"/%3E%3C/svg%3E') center/contain no-repeat;
+}
+/* Hide bare glyph, keep accessible label and live text. */
+.lex-query-tools .prep-search input{font-size:13px}
+/* Links, dropdowns and chip controls retain a consistent and unclipped keyboard cue. */
+.lex-query-tools :is(.lex-query-chip,.lex-query-clear):focus-visible{
+ outline:2px solid var(--focus);outline-offset:2px;
+}
+.lex-query-tools .lex-select-wrap:focus-within{border-radius:9px}
+.lex-query-tools :is(.sem-select,.root-lang,.prep-categories,.lex-query-summary){min-width:0}
+/* Constrain long labels and inputs on narrow screens rather than pushing cards. */
+.lex-query-tools :is(.prep-tools,.sem-filterbar,.atlas-toolbar,.root-filterbar,.learner-tools,.dialect-tools)>*{max-width:100%;min-width:0}
+@media(max-width:750px){
+ .lex-query-tools{margin-block:17px 21px;padding:15px;border-radius:13px}
+ .lex-query-tools .lex-query-head{margin-bottom:13px}
+ .lex-query-tools .lex-query-summary{margin-top:13px}
+ .lex-query-tools .sem-filterbar{gap:10px}
+ .lex-query-tools .sem-search-shell{flex-basis:100%}
+ .lex-query-tools .prep-tools{gap:10px}
+ .lex-query-tools + :is(.prep-map-body,.sem-index,.dialect-grid,.learner-grid,.root-disclaimer,.morph-method,.atlas-trail){margin-top:15px}
+}
+@media(max-width:440px){
+ .lex-query-tools{padding:13px;margin-block:14px 19px}
+ .lex-query-tools .prep-search,.lex-query-tools .sem-search-shell{min-height:47px}
+}
+@media(prefers-reduced-motion:reduce){.lex-query-tools :is(.root-find,.atlas-find,.sem-search-shell,.prep-search,.contrast-search){transition:none}}
+
 </style></head><body>
 <div class="app">
 <aside class="sidebar"><div class="brand"><div class="brand-logo">L.</div><div><div class="brand-title">Lexicon</div><div class="brand-sub">the word studio</div></div></div>
