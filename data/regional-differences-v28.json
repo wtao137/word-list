@@ -1,0 +1,4099 @@
+{
+  "version": "v28",
+  "total": 422,
+  "data": [
+    {
+      "type": "spelling",
+      "uk": "colour",
+      "us": "color",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d1"
+    },
+    {
+      "type": "spelling",
+      "uk": "colours",
+      "us": "colors",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d2"
+    },
+    {
+      "type": "spelling",
+      "uk": "coloured",
+      "us": "colored",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d3"
+    },
+    {
+      "type": "spelling",
+      "uk": "colouring",
+      "us": "coloring",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d4"
+    },
+    {
+      "type": "spelling",
+      "uk": "colourful",
+      "us": "colorful",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d5"
+    },
+    {
+      "type": "spelling",
+      "uk": "favourite",
+      "us": "favorite",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d6"
+    },
+    {
+      "type": "spelling",
+      "uk": "favourites",
+      "us": "favorites",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d7"
+    },
+    {
+      "type": "spelling",
+      "uk": "favour",
+      "us": "favor",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d8"
+    },
+    {
+      "type": "spelling",
+      "uk": "favourable",
+      "us": "favorable",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d9"
+    },
+    {
+      "type": "spelling",
+      "uk": "favourably",
+      "us": "favorably",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d10"
+    },
+    {
+      "type": "spelling",
+      "uk": "favoured",
+      "us": "favored",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d11"
+    },
+    {
+      "type": "spelling",
+      "uk": "flavour",
+      "us": "flavor",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d12"
+    },
+    {
+      "type": "spelling",
+      "uk": "flavoured",
+      "us": "flavored",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d13"
+    },
+    {
+      "type": "spelling",
+      "uk": "honour",
+      "us": "honor",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d14"
+    },
+    {
+      "type": "spelling",
+      "uk": "honourable",
+      "us": "honorable",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d15"
+    },
+    {
+      "type": "spelling",
+      "uk": "honoured",
+      "us": "honored",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d16"
+    },
+    {
+      "type": "spelling",
+      "uk": "humour",
+      "us": "humor",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d17"
+    },
+    {
+      "type": "spelling",
+      "uk": "labour",
+      "us": "labor",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d18"
+    },
+    {
+      "type": "spelling",
+      "uk": "labourer",
+      "us": "laborer",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d19"
+    },
+    {
+      "type": "spelling",
+      "uk": "neighbour",
+      "us": "neighbor",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d20"
+    },
+    {
+      "type": "spelling",
+      "uk": "neighbourhood",
+      "us": "neighborhood",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d21"
+    },
+    {
+      "type": "spelling",
+      "uk": "behaviour",
+      "us": "behavior",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d22"
+    },
+    {
+      "type": "spelling",
+      "uk": "behavioural",
+      "us": "behavioral",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d23"
+    },
+    {
+      "type": "spelling",
+      "uk": "rumour",
+      "us": "rumor",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d24"
+    },
+    {
+      "type": "spelling",
+      "uk": "rumours",
+      "us": "rumors",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d25"
+    },
+    {
+      "type": "spelling",
+      "uk": "vigour",
+      "us": "vigor",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d26"
+    },
+    {
+      "type": "spelling",
+      "uk": "saviour",
+      "us": "savior",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d27"
+    },
+    {
+      "type": "spelling",
+      "uk": "armour",
+      "us": "armor",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d28"
+    },
+    {
+      "type": "spelling",
+      "uk": "harbour",
+      "us": "harbor",
+      "topic": "-our / -or",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d29"
+    },
+    {
+      "type": "spelling",
+      "uk": "centre",
+      "us": "center",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d30"
+    },
+    {
+      "type": "spelling",
+      "uk": "centred",
+      "us": "centered",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d31"
+    },
+    {
+      "type": "spelling",
+      "uk": "centres",
+      "us": "centers",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d32"
+    },
+    {
+      "type": "spelling",
+      "uk": "metre",
+      "us": "meter",
+      "topic": "-re / -er",
+      "note": "长度单位用 metre（UK）/meter（US）；测量仪表英国亦拼 meter",
+      "id": "d33"
+    },
+    {
+      "type": "spelling",
+      "uk": "kilometre",
+      "us": "kilometer",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d34"
+    },
+    {
+      "type": "spelling",
+      "uk": "centimetre",
+      "us": "centimeter",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d35"
+    },
+    {
+      "type": "spelling",
+      "uk": "millimetre",
+      "us": "millimeter",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d36"
+    },
+    {
+      "type": "spelling",
+      "uk": "litre",
+      "us": "liter",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d37"
+    },
+    {
+      "type": "spelling",
+      "uk": "millilitre",
+      "us": "milliliter",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d38"
+    },
+    {
+      "type": "spelling",
+      "uk": "theatre",
+      "us": "theater",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d39"
+    },
+    {
+      "type": "spelling",
+      "uk": "fibre",
+      "us": "fiber",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d40"
+    },
+    {
+      "type": "spelling",
+      "uk": "fibres",
+      "us": "fibers",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d41"
+    },
+    {
+      "type": "spelling",
+      "uk": "spectre",
+      "us": "specter",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d42"
+    },
+    {
+      "type": "spelling",
+      "uk": "sombre",
+      "us": "somber",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d43"
+    },
+    {
+      "type": "spelling",
+      "uk": "calibre",
+      "us": "caliber",
+      "topic": "-re / -er",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d44"
+    },
+    {
+      "type": "spelling",
+      "uk": "organise",
+      "us": "organize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也正确（尤其牛津风格）；这里只标常见偏好",
+      "id": "d45"
+    },
+    {
+      "type": "spelling",
+      "uk": "organised",
+      "us": "organized",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d46"
+    },
+    {
+      "type": "spelling",
+      "uk": "organisation",
+      "us": "organization",
+      "topic": "-ise / -ize",
+      "note": "英国也使用 organization",
+      "id": "d47"
+    },
+    {
+      "type": "spelling",
+      "uk": "organising",
+      "us": "organizing",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d48"
+    },
+    {
+      "type": "spelling",
+      "uk": "recognise",
+      "us": "recognize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d49"
+    },
+    {
+      "type": "spelling",
+      "uk": "recognised",
+      "us": "recognized",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d50"
+    },
+    {
+      "type": "spelling",
+      "uk": "realise",
+      "us": "realize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d51"
+    },
+    {
+      "type": "spelling",
+      "uk": "realised",
+      "us": "realized",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d52"
+    },
+    {
+      "type": "spelling",
+      "uk": "realisation",
+      "us": "realization",
+      "topic": "-ise / -ize",
+      "note": "英国也使用 realization",
+      "id": "d53"
+    },
+    {
+      "type": "spelling",
+      "uk": "analyse",
+      "us": "analyze",
+      "topic": "-yse / -yze",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d54"
+    },
+    {
+      "type": "spelling",
+      "uk": "analysed",
+      "us": "analyzed",
+      "topic": "-yse / -yze",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d55"
+    },
+    {
+      "type": "spelling",
+      "uk": "analysing",
+      "us": "analyzing",
+      "topic": "-yse / -yze",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d56"
+    },
+    {
+      "type": "spelling",
+      "uk": "paralyse",
+      "us": "paralyze",
+      "topic": "-yse / -yze",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d57"
+    },
+    {
+      "type": "spelling",
+      "uk": "paralysed",
+      "us": "paralyzed",
+      "topic": "-yse / -yze",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d58"
+    },
+    {
+      "type": "spelling",
+      "uk": "catalyse",
+      "us": "catalyze",
+      "topic": "-yse / -yze",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d59"
+    },
+    {
+      "type": "spelling",
+      "uk": "catalysed",
+      "us": "catalyzed",
+      "topic": "-yse / -yze",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d60"
+    },
+    {
+      "type": "spelling",
+      "uk": "optimise",
+      "us": "optimize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d61"
+    },
+    {
+      "type": "spelling",
+      "uk": "optimised",
+      "us": "optimized",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d62"
+    },
+    {
+      "type": "spelling",
+      "uk": "optimisation",
+      "us": "optimization",
+      "topic": "-ise / -ize",
+      "note": "英国也使用 optimization",
+      "id": "d63"
+    },
+    {
+      "type": "spelling",
+      "uk": "minimise",
+      "us": "minimize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d64"
+    },
+    {
+      "type": "spelling",
+      "uk": "minimised",
+      "us": "minimized",
+      "topic": "-ise / -ize",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d65"
+    },
+    {
+      "type": "spelling",
+      "uk": "maximise",
+      "us": "maximize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d66"
+    },
+    {
+      "type": "spelling",
+      "uk": "maximised",
+      "us": "maximized",
+      "topic": "-ise / -ize",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d67"
+    },
+    {
+      "type": "spelling",
+      "uk": "prioritise",
+      "us": "prioritize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d68"
+    },
+    {
+      "type": "spelling",
+      "uk": "prioritised",
+      "us": "prioritized",
+      "topic": "-ise / -ize",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d69"
+    },
+    {
+      "type": "spelling",
+      "uk": "standardise",
+      "us": "standardize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d70"
+    },
+    {
+      "type": "spelling",
+      "uk": "standardised",
+      "us": "standardized",
+      "topic": "-ise / -ize",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d71"
+    },
+    {
+      "type": "spelling",
+      "uk": "characterise",
+      "us": "characterize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d72"
+    },
+    {
+      "type": "spelling",
+      "uk": "characterised",
+      "us": "characterized",
+      "topic": "-ise / -ize",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d73"
+    },
+    {
+      "type": "spelling",
+      "uk": "criticise",
+      "us": "criticize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d74"
+    },
+    {
+      "type": "spelling",
+      "uk": "criticised",
+      "us": "criticized",
+      "topic": "-ise / -ize",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d75"
+    },
+    {
+      "type": "spelling",
+      "uk": "memorise",
+      "us": "memorize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d76"
+    },
+    {
+      "type": "spelling",
+      "uk": "summarise",
+      "us": "summarize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d77"
+    },
+    {
+      "type": "spelling",
+      "uk": "summarised",
+      "us": "summarized",
+      "topic": "-ise / -ize",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d78"
+    },
+    {
+      "type": "spelling",
+      "uk": "apologise",
+      "us": "apologize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d79"
+    },
+    {
+      "type": "spelling",
+      "uk": "apologised",
+      "us": "apologized",
+      "topic": "-ise / -ize",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d80"
+    },
+    {
+      "type": "spelling",
+      "uk": "emphasise",
+      "us": "emphasize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d81"
+    },
+    {
+      "type": "spelling",
+      "uk": "emphasised",
+      "us": "emphasized",
+      "topic": "-ise / -ize",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d82"
+    },
+    {
+      "type": "spelling",
+      "uk": "finalise",
+      "us": "finalize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d83"
+    },
+    {
+      "type": "spelling",
+      "uk": "visualise",
+      "us": "visualize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d84"
+    },
+    {
+      "type": "spelling",
+      "uk": "specialise",
+      "us": "specialize",
+      "topic": "-ise / -ize",
+      "note": "英国 -ize 也可用",
+      "id": "d85"
+    },
+    {
+      "type": "spelling",
+      "uk": "specialised",
+      "us": "specialized",
+      "topic": "-ise / -ize",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d86"
+    },
+    {
+      "type": "spelling",
+      "uk": "licence",
+      "us": "license",
+      "topic": "c / s",
+      "note": "英国 licence 为名词、license 为动词；美国 license 都可用",
+      "id": "d87"
+    },
+    {
+      "type": "spelling",
+      "uk": "practise",
+      "us": "practice",
+      "topic": "c / s",
+      "note": "英国 practise 常作动词、practice 作名词；美国 practice 两者均可",
+      "id": "d88"
+    },
+    {
+      "type": "spelling",
+      "uk": "defence",
+      "us": "defense",
+      "topic": "-ence / -ense",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d89"
+    },
+    {
+      "type": "spelling",
+      "uk": "offence",
+      "us": "offense",
+      "topic": "-ence / -ense",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d90"
+    },
+    {
+      "type": "spelling",
+      "uk": "pretence",
+      "us": "pretense",
+      "topic": "-ence / -ense",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d91"
+    },
+    {
+      "type": "spelling",
+      "uk": "travelling",
+      "us": "traveling",
+      "topic": "辅音双写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d92"
+    },
+    {
+      "type": "spelling",
+      "uk": "travelled",
+      "us": "traveled",
+      "topic": "辅音双写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d93"
+    },
+    {
+      "type": "spelling",
+      "uk": "traveller",
+      "us": "traveler",
+      "topic": "辅音双写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d94"
+    },
+    {
+      "type": "spelling",
+      "uk": "cancelled",
+      "us": "canceled",
+      "topic": "辅音双写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d95"
+    },
+    {
+      "type": "spelling",
+      "uk": "cancelling",
+      "us": "canceling",
+      "topic": "辅音双写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d96"
+    },
+    {
+      "type": "spelling",
+      "uk": "counsellor",
+      "us": "counselor",
+      "topic": "辅音双写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d97"
+    },
+    {
+      "type": "spelling",
+      "uk": "counselling",
+      "us": "counseling",
+      "topic": "辅音双写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d98"
+    },
+    {
+      "type": "spelling",
+      "uk": "labelled",
+      "us": "labeled",
+      "topic": "辅音双写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d99"
+    },
+    {
+      "type": "spelling",
+      "uk": "labelling",
+      "us": "labeling",
+      "topic": "辅音双写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d100"
+    },
+    {
+      "type": "spelling",
+      "uk": "modelling",
+      "us": "modeling",
+      "topic": "辅音双写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d101"
+    },
+    {
+      "type": "spelling",
+      "uk": "modelled",
+      "us": "modeled",
+      "topic": "辅音双写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d102"
+    },
+    {
+      "type": "spelling",
+      "uk": "marvellous",
+      "us": "marvelous",
+      "topic": "辅音双写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d103"
+    },
+    {
+      "type": "spelling",
+      "uk": "jewellery",
+      "us": "jewelry",
+      "topic": "其他拼写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d104"
+    },
+    {
+      "type": "spelling",
+      "uk": "cheque",
+      "us": "check",
+      "topic": "其他拼写",
+      "note": "银行支票；check 在两种英语中也常表示“检查”",
+      "id": "d105"
+    },
+    {
+      "type": "spelling",
+      "uk": "grey",
+      "us": "gray",
+      "topic": "其他拼写",
+      "note": "双方均可用；英国偏好 grey，美国偏好 gray",
+      "id": "d106"
+    },
+    {
+      "type": "spelling",
+      "uk": "mould",
+      "us": "mold",
+      "topic": "其他拼写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d107"
+    },
+    {
+      "type": "spelling",
+      "uk": "plough",
+      "us": "plow",
+      "topic": "其他拼写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d108"
+    },
+    {
+      "type": "spelling",
+      "uk": "storey",
+      "us": "story",
+      "topic": "其他拼写",
+      "note": "建筑楼层；story 在两种英语中均可表示故事",
+      "id": "d109"
+    },
+    {
+      "type": "spelling",
+      "uk": "kerb",
+      "us": "curb",
+      "topic": "其他拼写",
+      "note": "马路路缘；curb 在两种英语中均可表示限制、遏制",
+      "id": "d110"
+    },
+    {
+      "type": "spelling",
+      "uk": "manoeuvre",
+      "us": "maneuver",
+      "topic": "其他拼写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d111"
+    },
+    {
+      "type": "spelling",
+      "uk": "anaemia",
+      "us": "anemia",
+      "topic": "其他拼写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d112"
+    },
+    {
+      "type": "spelling",
+      "uk": "paediatric",
+      "us": "pediatric",
+      "topic": "其他拼写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d113"
+    },
+    {
+      "type": "spelling",
+      "uk": "oestrogen",
+      "us": "estrogen",
+      "topic": "其他拼写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d114"
+    },
+    {
+      "type": "spelling",
+      "uk": "foetus",
+      "us": "fetus",
+      "topic": "其他拼写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d115"
+    },
+    {
+      "type": "spelling",
+      "uk": "encyclopaedia",
+      "us": "encyclopedia",
+      "topic": "其他拼写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d116"
+    },
+    {
+      "type": "spelling",
+      "uk": "mediaeval",
+      "us": "medieval",
+      "topic": "其他拼写",
+      "note": "现代英国也常用 medieval",
+      "id": "d117"
+    },
+    {
+      "type": "spelling",
+      "uk": "aluminium",
+      "us": "aluminum",
+      "topic": "其他拼写",
+      "note": "不同标准名称，也有发音差异",
+      "id": "d118"
+    },
+    {
+      "type": "spelling",
+      "uk": "sulphur",
+      "us": "sulfur",
+      "topic": "其他拼写",
+      "note": "国际化学命名正式推荐 sulfur；英国传统拼写 sulphur 仍可见",
+      "id": "d119"
+    },
+    {
+      "type": "spelling",
+      "uk": "catalogue",
+      "us": "catalog",
+      "topic": "其他拼写",
+      "note": "美国也可见 catalogue，取决于行业和文体",
+      "id": "d120"
+    },
+    {
+      "type": "spelling",
+      "uk": "dialogue",
+      "us": "dialog",
+      "topic": "其他拼写",
+      "note": "美国也常用 dialogue；计算机界面更常见 dialog",
+      "id": "d121"
+    },
+    {
+      "type": "spelling",
+      "uk": "analogue",
+      "us": "analog",
+      "topic": "其他拼写",
+      "note": "analog 常见于科技写作",
+      "id": "d122"
+    },
+    {
+      "type": "spelling",
+      "uk": "monologue",
+      "us": "monolog",
+      "topic": "其他拼写",
+      "note": "美国 monologue 也广泛使用",
+      "id": "d123"
+    },
+    {
+      "type": "spelling",
+      "uk": "programme",
+      "us": "program",
+      "topic": "其他拼写",
+      "note": "英国计算机程序通常用 program；其他计划／节目用 programme",
+      "id": "d124"
+    },
+    {
+      "type": "spelling",
+      "uk": "pyjamas",
+      "us": "pajamas",
+      "topic": "其他拼写",
+      "note": "主流拼写偏好；一般不改变基本词义。",
+      "id": "d125"
+    },
+    {
+      "type": "spelling",
+      "uk": "tyre",
+      "us": "tire",
+      "topic": "其他拼写",
+      "note": "车辆轮胎；tire 在两种英语中也可表示疲倦",
+      "id": "d126"
+    },
+    {
+      "type": "spelling",
+      "uk": "maths",
+      "us": "math",
+      "topic": "其他拼写",
+      "note": "数学科目简称；完整 mathematics 相同",
+      "id": "d127"
+    },
+    {
+      "type": "spelling",
+      "uk": "mum",
+      "us": "mom",
+      "topic": "其他拼写",
+      "note": "家庭称呼；各地亦有 mam 等形式",
+      "id": "d128"
+    },
+    {
+      "type": "spelling",
+      "uk": "whisky",
+      "us": "whiskey",
+      "topic": "其他拼写",
+      "note": "酒类拼写跟产地和品牌有关，不能简单按英美强制区分",
+      "id": "d129"
+    },
+    {
+      "type": "spelling",
+      "uk": "judgement",
+      "us": "judgment",
+      "topic": "其他拼写",
+      "note": "英国法律文书也常用 judgment；两种拼法均可见",
+      "id": "d130"
+    },
+    {
+      "type": "spelling",
+      "uk": "ageing",
+      "us": "aging",
+      "topic": "其他拼写",
+      "note": "英国常用 ageing，美国偏好 aging",
+      "id": "d131"
+    },
+    {
+      "type": "spelling",
+      "uk": "amongst",
+      "us": "among",
+      "topic": "其他拼写",
+      "note": "不是严格英美对立；among 两地都常见",
+      "id": "d132"
+    },
+    {
+      "type": "spelling",
+      "uk": "whilst",
+      "us": "while",
+      "topic": "其他拼写",
+      "note": "不是严格英美对立；while 两地都常见",
+      "id": "d133"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "flat",
+      "us": "apartment",
+      "zh": "公寓",
+      "topic": "住房",
+      "note": "英国常用 flat；美国常用 apartment",
+      "ukExample": "She rents a flat near the station.",
+      "usExample": "She rents an apartment near the station.",
+      "id": "d134"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "lift",
+      "us": "elevator",
+      "zh": "电梯",
+      "topic": "城市与出行",
+      "note": "两种说法含义相近",
+      "ukExample": "Take the lift to the fourth floor.",
+      "usExample": "Take the elevator to the fourth floor.",
+      "id": "d135"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "lorry",
+      "us": "truck",
+      "zh": "卡车",
+      "topic": "交通",
+      "note": "truck 在英国也能使用",
+      "ukExample": "A lorry blocked the road.",
+      "usExample": "A truck blocked the road.",
+      "id": "d136"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "pavement",
+      "us": "sidewalk",
+      "zh": "人行道",
+      "topic": "交通",
+      "note": "美国 pavement 通常指铺设路面，不等于 sidewalk",
+      "ukExample": "Walk along the pavement.",
+      "usExample": "Walk along the sidewalk.",
+      "id": "d137"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "car park",
+      "us": "parking lot",
+      "zh": "停车场",
+      "topic": "交通",
+      "note": "美国 parking garage 多指立体／室内车库",
+      "ukExample": "The car park is full.",
+      "usExample": "The parking lot is full.",
+      "id": "d138"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "petrol",
+      "us": "gasoline",
+      "zh": "汽油",
+      "topic": "交通",
+      "note": "美国口语通常简说 gas；gas 在别的语境还可指气体",
+      "ukExample": "The car needs petrol.",
+      "usExample": "The car needs gas.",
+      "id": "d139"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "boot",
+      "us": "trunk",
+      "zh": "汽车后备箱",
+      "topic": "交通",
+      "note": "这里都指汽车储物空间",
+      "ukExample": "Put the luggage in the boot.",
+      "usExample": "Put the luggage in the trunk.",
+      "id": "d140"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "bonnet",
+      "us": "hood",
+      "zh": "汽车发动机罩",
+      "topic": "交通",
+      "note": "hood 在美国另有其他意义",
+      "ukExample": "Open the bonnet.",
+      "usExample": "Open the hood.",
+      "id": "d141"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "indicator",
+      "us": "turn signal",
+      "zh": "转向灯",
+      "topic": "交通",
+      "note": "signal 也常被用作动词",
+      "ukExample": "The indicator is flashing.",
+      "usExample": "The turn signal is flashing.",
+      "id": "d142"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "number plate",
+      "us": "license plate",
+      "zh": "车牌",
+      "topic": "交通",
+      "note": "英国也说 registration plate",
+      "ukExample": "The number plate is dirty.",
+      "usExample": "The license plate is dirty.",
+      "id": "d143"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "motorway",
+      "us": "freeway",
+      "zh": "高速公路",
+      "topic": "交通",
+      "note": "美国还常用 highway、interstate；名称并非完全相同",
+      "ukExample": "Take the motorway north.",
+      "usExample": "Take the freeway north.",
+      "id": "d144"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "roundabout",
+      "us": "traffic circle",
+      "zh": "环岛",
+      "topic": "交通",
+      "note": "美国也知道 roundabout，两者设计未必完全相同",
+      "ukExample": "Turn left at the roundabout.",
+      "usExample": "Turn left at the traffic circle.",
+      "id": "d145"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "queue",
+      "us": "line",
+      "zh": "排队",
+      "topic": "日常生活",
+      "note": "英国也可用 line；英国更常说 queue",
+      "ukExample": "Join the queue here.",
+      "usExample": "Get in line here.",
+      "id": "d146"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "holiday",
+      "us": "vacation",
+      "zh": "假期",
+      "topic": "日常生活",
+      "note": "holiday 美国更多指节日／特定假日；英国也能用 vacation",
+      "ukExample": "We're going on holiday.",
+      "usExample": "We're going on vacation.",
+      "id": "d147"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "autumn",
+      "us": "fall",
+      "zh": "秋天",
+      "topic": "自然与天气",
+      "note": "autumn 两地通用；fall 在美国更常见",
+      "ukExample": "Autumn starts in September.",
+      "usExample": "Fall starts in September.",
+      "id": "d148"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "rubbish",
+      "us": "trash",
+      "zh": "垃圾",
+      "topic": "日常生活",
+      "note": "美国也可用 garbage；rubbish 在英国还有“胡说”的意思",
+      "ukExample": "Put the rubbish in the bin.",
+      "usExample": "Put the trash in the can.",
+      "id": "d149"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "bin",
+      "us": "trash can",
+      "zh": "垃圾桶",
+      "topic": "日常生活",
+      "note": "bin 也用于美国某些分类容器",
+      "ukExample": "The bin is under the sink.",
+      "usExample": "The trash can is under the sink.",
+      "id": "d150"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "tap",
+      "us": "faucet",
+      "zh": "水龙头",
+      "topic": "居家",
+      "note": "tap 在美国也用于其他语义",
+      "ukExample": "Turn off the tap.",
+      "usExample": "Turn off the faucet.",
+      "id": "d151"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "torch",
+      "us": "flashlight",
+      "zh": "手电筒",
+      "topic": "居家",
+      "note": "美国 torch 通常指火炬、喷灯等",
+      "ukExample": "Bring a torch.",
+      "usExample": "Bring a flashlight.",
+      "id": "d152"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "cooker",
+      "us": "stove",
+      "zh": "炉灶",
+      "topic": "居家",
+      "note": "英国 cooker 通常指整体炊具；stove 的具体类型依地区而异",
+      "ukExample": "The cooker is electric.",
+      "usExample": "The stove is electric.",
+      "id": "d153"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "wardrobe",
+      "us": "closet",
+      "zh": "衣柜",
+      "topic": "居家",
+      "note": "英国 wardrobe 常为独立家具，closet 也可能指嵌入式壁橱",
+      "ukExample": "Her clothes are in the wardrobe.",
+      "usExample": "Her clothes are in the closet.",
+      "id": "d154"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "hoover",
+      "us": "vacuum cleaner",
+      "zh": "吸尘器",
+      "topic": "居家",
+      "note": "英国 hoover 原是商标泛化，有人也写作动词",
+      "ukExample": "We need a new hoover.",
+      "usExample": "We need a new vacuum cleaner.",
+      "id": "d155"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "nappy",
+      "us": "diaper",
+      "zh": "尿布",
+      "topic": "家庭",
+      "note": "基本对应",
+      "ukExample": "The baby needs a clean nappy.",
+      "usExample": "The baby needs a clean diaper.",
+      "id": "d156"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "dummy",
+      "us": "pacifier",
+      "zh": "安抚奶嘴",
+      "topic": "家庭",
+      "note": "dummy 还可指模型、假人；美国常用 pacifier",
+      "ukExample": "He dropped his dummy.",
+      "usExample": "He dropped his pacifier.",
+      "id": "d157"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "pram",
+      "us": "baby carriage",
+      "zh": "婴儿卧式推车",
+      "topic": "家庭",
+      "note": "婴儿车类型多，英国 pram 与 pushchair 不完全相同",
+      "ukExample": "The baby is asleep in the pram.",
+      "usExample": "The baby is asleep in the baby carriage.",
+      "id": "d158"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "pushchair",
+      "us": "stroller",
+      "zh": "婴儿坐式推车",
+      "topic": "家庭",
+      "note": "stroller 在美国更常见",
+      "ukExample": "Fold the pushchair.",
+      "usExample": "Fold the stroller.",
+      "id": "d159"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "pupil",
+      "us": "student",
+      "zh": "中小学生",
+      "topic": "教育",
+      "note": "英国 pupil 更常用于中小学；英国和美国都使用 student",
+      "ukExample": "The pupils are in class.",
+      "usExample": "The students are in class.",
+      "id": "d160"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "state school",
+      "us": "public school",
+      "zh": "公立学校",
+      "topic": "教育",
+      "note": "重要：英国 public school 常指知名私校；不可机械替换",
+      "ukExample": "She went to a state school.",
+      "usExample": "She went to a public school.",
+      "id": "d161"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "marks",
+      "us": "grades",
+      "zh": "成绩／分数",
+      "topic": "教育",
+      "note": "英国也有 grade（等级／成绩），两者并非排他",
+      "ukExample": "The exam marks are out.",
+      "usExample": "The exam grades are out.",
+      "id": "d162"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "head teacher",
+      "us": "principal",
+      "zh": "中小学校长",
+      "topic": "教育",
+      "note": "美国 principal 常用于中小学",
+      "ukExample": "Ask the head teacher.",
+      "usExample": "Ask the principal.",
+      "id": "d163"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "post",
+      "us": "mail",
+      "zh": "邮件／邮政",
+      "topic": "通信",
+      "note": "两地都能理解另一说法；mail 在英国也常见",
+      "ukExample": "The post has arrived.",
+      "usExample": "The mail has arrived.",
+      "id": "d164"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "postbox",
+      "us": "mailbox",
+      "zh": "信箱／邮筒",
+      "topic": "通信",
+      "note": "美国 mailbox 也可指家用信箱",
+      "ukExample": "The postbox is outside.",
+      "usExample": "The mailbox is outside.",
+      "id": "d165"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "postcode",
+      "us": "ZIP code",
+      "zh": "邮政编码",
+      "topic": "通信",
+      "note": "ZIP 为美国邮政编码系统的专用术语",
+      "ukExample": "Enter your postcode.",
+      "usExample": "Enter your ZIP code.",
+      "id": "d166"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "mobile phone",
+      "us": "cell phone",
+      "zh": "手机",
+      "topic": "科技",
+      "note": "两地都可说 phone；美国也用 mobile phone",
+      "ukExample": "Call me on my mobile phone.",
+      "usExample": "Call me on my cell phone.",
+      "id": "d167"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "chemist's",
+      "us": "drugstore",
+      "zh": "药店",
+      "topic": "医疗",
+      "note": "英国 chemist / pharmacy；美国 drugstore 往往还售日用品",
+      "ukExample": "I'll go to the chemist's.",
+      "usExample": "I'll go to the drugstore.",
+      "id": "d168"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "GP",
+      "us": "primary care doctor",
+      "zh": "全科医生",
+      "topic": "医疗",
+      "note": "GP 为 general practitioner；美国常用 primary care physician",
+      "ukExample": "I need to see my GP.",
+      "usExample": "I need to see my primary care doctor.",
+      "id": "d169"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "plaster",
+      "us": "bandage",
+      "zh": "创可贴／敷贴",
+      "topic": "医疗",
+      "note": "美国 adhesive bandage 更准确；bandage 泛指绷带，非严格对应",
+      "ukExample": "She put a plaster on the cut.",
+      "usExample": "She put an adhesive bandage on the cut.",
+      "id": "d170"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "crisps",
+      "us": "potato chips",
+      "zh": "薯片",
+      "topic": "饮食",
+      "note": "英国 chips 往往指较粗的炸薯条",
+      "ukExample": "A packet of crisps, please.",
+      "usExample": "A bag of potato chips, please.",
+      "id": "d171"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "chips",
+      "us": "fries",
+      "zh": "炸薯条",
+      "topic": "饮食",
+      "note": "英式 chips 通常比美式 fries 更粗；见 chips 的不同词义",
+      "ukExample": "Fish and chips, please.",
+      "usExample": "I'd like fish and fries.",
+      "id": "d172"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "aubergine",
+      "us": "eggplant",
+      "zh": "茄子",
+      "topic": "饮食",
+      "note": "基本对应",
+      "ukExample": "Add the aubergine to the pan.",
+      "usExample": "Add the eggplant to the pan.",
+      "id": "d173"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "courgette",
+      "us": "zucchini",
+      "zh": "西葫芦",
+      "topic": "饮食",
+      "note": "基本对应",
+      "ukExample": "Slice the courgette.",
+      "usExample": "Slice the zucchini.",
+      "id": "d174"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "coriander",
+      "us": "cilantro",
+      "zh": "香菜叶",
+      "topic": "饮食",
+      "note": "美国 cilantro 通常特指叶片；coriander 常用于籽",
+      "ukExample": "Add some fresh coriander.",
+      "usExample": "Add some fresh cilantro.",
+      "id": "d175"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "spring onion",
+      "us": "scallion",
+      "zh": "小葱",
+      "topic": "饮食",
+      "note": "美国也可说 green onion",
+      "ukExample": "Chop the spring onions.",
+      "usExample": "Chop the scallions.",
+      "id": "d176"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "icing sugar",
+      "us": "powdered sugar",
+      "zh": "糖粉",
+      "topic": "饮食",
+      "note": "美国也常说 confectioners' sugar",
+      "ukExample": "Add the icing sugar.",
+      "usExample": "Add the powdered sugar.",
+      "id": "d177"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "candyfloss",
+      "us": "cotton candy",
+      "zh": "棉花糖",
+      "topic": "饮食",
+      "note": "基本对应",
+      "ukExample": "The children bought candyfloss.",
+      "usExample": "The children bought cotton candy.",
+      "id": "d178"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "sweets",
+      "us": "candy",
+      "zh": "糖果",
+      "topic": "饮食",
+      "note": "sweets 在英国常指糖果，在美国也可泛指甜食",
+      "ukExample": "The shop sells sweets.",
+      "usExample": "The store sells candy.",
+      "id": "d179"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "takeaway",
+      "us": "takeout",
+      "zh": "外卖",
+      "topic": "饮食",
+      "note": "美国也说 to go，英国也常说 takeaway",
+      "ukExample": "Let's get a takeaway.",
+      "usExample": "Let's get takeout.",
+      "id": "d180"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "mince",
+      "us": "ground beef",
+      "zh": "牛肉末",
+      "topic": "饮食",
+      "note": "英国 mince 可指绞肉，未必一定是牛肉",
+      "ukExample": "Use beef mince in the recipe.",
+      "usExample": "Use ground beef in the recipe.",
+      "id": "d181"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "tin",
+      "us": "can",
+      "zh": "罐头",
+      "topic": "饮食",
+      "note": "英国也说 can；美国通常 can",
+      "ukExample": "A tin of tomatoes.",
+      "usExample": "A can of tomatoes.",
+      "id": "d182"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "bill",
+      "us": "check",
+      "zh": "餐厅账单",
+      "topic": "饮食",
+      "note": "美国也说 bill；check 较具美式餐饮色彩",
+      "ukExample": "Could we have the bill?",
+      "usExample": "Could we have the check?",
+      "id": "d183"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "film",
+      "us": "movie",
+      "zh": "电影",
+      "topic": "娱乐",
+      "note": "两地都通用；偏好不同",
+      "ukExample": "We watched a film.",
+      "usExample": "We watched a movie.",
+      "id": "d184"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "cinema",
+      "us": "movie theater",
+      "zh": "电影院",
+      "topic": "娱乐",
+      "note": "英国也可以用 cinema， 美国也常说 theater",
+      "ukExample": "Let's go to the cinema.",
+      "usExample": "Let's go to the movie theater.",
+      "id": "d185"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "football",
+      "us": "soccer",
+      "zh": "足球（英式）",
+      "topic": "体育",
+      "note": "美国 football 通常是美式橄榄球，易造成误解",
+      "ukExample": "He plays football every Sunday.",
+      "usExample": "He plays soccer every Sunday.",
+      "id": "d186"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "trainers",
+      "us": "sneakers",
+      "zh": "运动鞋",
+      "topic": "衣着",
+      "note": "英国也可说 sports shoes；美国也有地区说 tennis shoes",
+      "ukExample": "She bought new trainers.",
+      "usExample": "She bought new sneakers.",
+      "id": "d187"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "jumper",
+      "us": "sweater",
+      "zh": "套头衫",
+      "topic": "衣着",
+      "note": "美国 jumper 另有“无袖连衣裙”等义",
+      "ukExample": "She wore a warm jumper.",
+      "usExample": "She wore a warm sweater.",
+      "id": "d188"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "waistcoat",
+      "us": "vest",
+      "zh": "西装马甲",
+      "topic": "衣着",
+      "note": "英国 vest 常指贴身背心，美国 vest 通常指外穿马甲",
+      "ukExample": "He wore a waistcoat.",
+      "usExample": "He wore a vest.",
+      "id": "d189"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "trousers",
+      "us": "pants",
+      "zh": "长裤",
+      "topic": "衣着",
+      "note": "英国 pants 常指内裤，注意歧义",
+      "ukExample": "The trousers are too long.",
+      "usExample": "The pants are too long.",
+      "id": "d190"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "braces",
+      "us": "suspenders",
+      "zh": "背带",
+      "topic": "衣着",
+      "note": "英国 suspenders 可指吊袜带；美国 suspenders 为裤子背带",
+      "ukExample": "He wears braces.",
+      "usExample": "He wears suspenders.",
+      "id": "d191"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "loo",
+      "us": "restroom",
+      "zh": "卫生间",
+      "topic": "日常生活",
+      "note": "英国 loo 较口语，美国 restroom 常用于公共场所",
+      "ukExample": "Where's the loo?",
+      "usExample": "Where's the restroom?",
+      "id": "d192"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "ground floor",
+      "us": "first floor",
+      "zh": "底层／街道层",
+      "topic": "建筑",
+      "note": "英国 first floor 通常指街道层上一层，美国 first floor 通常是街道层",
+      "ukExample": "The office is on the ground floor.",
+      "usExample": "The office is on the first floor.",
+      "id": "d193"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "first floor",
+      "us": "second floor",
+      "zh": "街道层上一层",
+      "topic": "建筑",
+      "note": "关键：英国 first floor 通常对应美国 second floor",
+      "ukExample": "Her flat is on the first floor.",
+      "usExample": "Her apartment is on the second floor.",
+      "id": "d194"
+    },
+    {
+      "type": "meaning",
+      "word": "pants",
+      "uk": "多指内裤（英式口语）",
+      "us": "多指长裤",
+      "topic": "衣着",
+      "note": "英国 trousers 才是美国 pants 的常见对应；注意不能孤立翻译。",
+      "ukExample": "He forgot to pack clean pants.",
+      "usExample": "He bought a new pair of pants.",
+      "id": "d195"
+    },
+    {
+      "type": "meaning",
+      "word": "biscuit",
+      "uk": "通常是甜或咸的硬质饼干",
+      "us": "通常是蓬松的烘焙面包／司康状面点",
+      "topic": "饮食",
+      "note": "英国 biscuit 不一定是美国 biscuit；美国 cookie 更接近英式甜饼干。",
+      "ukExample": "Would you like a biscuit with your tea?",
+      "usExample": "We had biscuits and gravy for breakfast.",
+      "id": "d196"
+    },
+    {
+      "type": "meaning",
+      "word": "chips",
+      "uk": "通常指炸薯条",
+      "us": "通常指薯片（potato chips）",
+      "topic": "饮食",
+      "note": "英国薯片是 crisps；美国炸薯条是 fries。",
+      "ukExample": "Fish and chips is popular.",
+      "usExample": "I bought a bag of chips.",
+      "id": "d197"
+    },
+    {
+      "type": "meaning",
+      "word": "rubber",
+      "uk": "常指橡皮擦",
+      "us": "指橡胶；口语中也可指避孕套",
+      "topic": "日常生活",
+      "note": "在美国询问橡皮擦宜说 eraser，避免歧义。",
+      "ukExample": "May I borrow your rubber?",
+      "usExample": "This seal is made of rubber.",
+      "id": "d198"
+    },
+    {
+      "type": "meaning",
+      "word": "vest",
+      "uk": "通常指贴身背心",
+      "us": "通常指外穿马甲",
+      "topic": "衣着",
+      "note": "英式 waistcoat 更接近美国 vest。",
+      "ukExample": "He wore a vest under his shirt.",
+      "usExample": "He wore a vest over his shirt.",
+      "id": "d199"
+    },
+    {
+      "type": "meaning",
+      "word": "jumper",
+      "uk": "套头毛衣",
+      "us": "可指无袖裙装（也有其他服装用法）",
+      "topic": "衣着",
+      "note": "若指毛衣，美国更稳妥说 sweater。",
+      "ukExample": "I bought a wool jumper.",
+      "usExample": "She wore a jumper over a blouse.",
+      "id": "d200"
+    },
+    {
+      "type": "meaning",
+      "word": "suspenders",
+      "uk": "吊袜带",
+      "us": "裤子背带",
+      "topic": "衣着",
+      "note": "英国裤子背带通常称 braces。",
+      "ukExample": "The stockings had suspenders.",
+      "usExample": "His suspenders kept his trousers up.",
+      "id": "d201"
+    },
+    {
+      "type": "meaning",
+      "word": "football",
+      "uk": "通常指足球（soccer）",
+      "us": "通常指美式橄榄球",
+      "topic": "体育",
+      "note": "同一词指向不同运动；需看上下文。",
+      "ukExample": "They watched a football match.",
+      "usExample": "They watched a football game.",
+      "id": "d202"
+    },
+    {
+      "type": "meaning",
+      "word": "public school",
+      "uk": "英国特定传统中的私立收费学校",
+      "us": "公立、主要由政府资助的学校",
+      "topic": "教育",
+      "note": "英国 public school 不等于美国 public school。",
+      "ukExample": "He was educated at a public school.",
+      "usExample": "She teaches at a public school.",
+      "id": "d203"
+    },
+    {
+      "type": "meaning",
+      "word": "first floor",
+      "uk": "街道层以上的第一层（常相当于美国二楼）",
+      "us": "通常为街道入口所在的一层",
+      "topic": "建筑",
+      "note": "具体国家和建筑标注仍应核实；ground floor 在英国指入口层。",
+      "ukExample": "The office is on the first floor, up the stairs.",
+      "usExample": "The office is on the first floor, beside the lobby.",
+      "id": "d204"
+    },
+    {
+      "type": "meaning",
+      "word": "quite",
+      "uk": "常可表示“还算／相当”，有时语气保留",
+      "us": "可更强地强调“非常／相当”",
+      "topic": "语气与程度",
+      "note": "两地都有多种程度意义，具体取决于语调和搭配；不是固定程度换算。",
+      "ukExample": "The lecture was quite interesting.",
+      "usExample": "The lecture was quite amazing.",
+      "id": "d205"
+    },
+    {
+      "type": "meaning",
+      "word": "homely",
+      "uk": "温馨舒适、有家的感觉",
+      "us": "相貌平常、不太好看（也有温馨义）",
+      "topic": "描述",
+      "note": "形容人的外貌时尤其注意地区与语境。",
+      "ukExample": "It was a homely little cottage.",
+      "usExample": "He described himself as homely.",
+      "id": "d206"
+    },
+    {
+      "type": "meaning",
+      "word": "purse",
+      "uk": "常指女性小钱包／零钱包",
+      "us": "通常指女性手提包",
+      "topic": "日常生活",
+      "note": "英国手提包常为 handbag。",
+      "ukExample": "She put the coins in her purse.",
+      "usExample": "She put her phone in her purse.",
+      "id": "d207"
+    },
+    {
+      "type": "meaning",
+      "word": "solicitor",
+      "uk": "一种法律执业者（与 barrister 分工）",
+      "us": "常指拉生意者或其他招揽者；法律职业称 lawyer/attorney",
+      "topic": "法律",
+      "note": "美国 solicitor 有专门法律职位名称，但制度不同。",
+      "ukExample": "She consulted a solicitor.",
+      "usExample": "They hired an attorney.",
+      "id": "d208"
+    },
+    {
+      "type": "meaning",
+      "word": "scheme",
+      "uk": "通常中性：计划、制度、方案",
+      "us": "可能更易让人联想到阴谋或不正当计划",
+      "topic": "语气与程度",
+      "note": "美国也可用于中性语境，尤如 color scheme；并非绝对贬义。",
+      "ukExample": "The council introduced a new scheme.",
+      "usExample": "The police uncovered a fraudulent scheme.",
+      "id": "d209"
+    },
+    {
+      "type": "meaning",
+      "word": "mad",
+      "uk": "可指发疯，也常表示“疯狂／愚蠢”",
+      "us": "常表示“生气”，也可表示疯狂",
+      "topic": "情绪",
+      "note": "He's mad at me 在美国通常是“他生我的气”。",
+      "ukExample": "That idea sounds mad.",
+      "usExample": "She was mad at the delay.",
+      "id": "d210"
+    },
+    {
+      "type": "meaning",
+      "word": "table",
+      "uk": "把提案提交讨论／列入议程（部分英式正式用法）",
+      "us": "把提案搁置、推迟讨论（尤其会议程序中）",
+      "topic": "会议与办公",
+      "note": "正式会议尤其容易引起行动方向相反的误解。",
+      "ukExample": "The committee agreed to table the motion for debate.",
+      "usExample": "They voted to table the proposal until next week.",
+      "id": "d211"
+    },
+    {
+      "type": "meaning",
+      "word": "trolley",
+      "uk": "通常指手推购物车；也可指其他有轮设备",
+      "us": "可指电车（部分地区）；购物车多说 shopping cart",
+      "topic": "交通",
+      "note": "购物情境下美国常说 cart。",
+      "ukExample": "Take a trolley at the supermarket.",
+      "usExample": "The trolley runs downtown.",
+      "id": "d212"
+    },
+    {
+      "type": "meaning",
+      "word": "subway",
+      "uk": "常指行人地下通道",
+      "us": "通常指城市地下铁路",
+      "topic": "交通",
+      "note": "英国地下铁通常说 underground / Tube（伦敦）。",
+      "ukExample": "Use the subway to cross the road.",
+      "usExample": "Take the subway to the museum.",
+      "id": "d213"
+    },
+    {
+      "type": "meaning",
+      "word": "pavement",
+      "uk": "人行道",
+      "us": "路面、铺设面",
+      "topic": "交通",
+      "note": "美国 sidewalk 对应英国 pavement。",
+      "ukExample": "Please keep the pavement clear.",
+      "usExample": "The pavement was cracked.",
+      "id": "d214"
+    },
+    {
+      "type": "meaning",
+      "word": "fanny",
+      "uk": "英式粗俗词，指女性生殖器部位",
+      "us": "较口语、相对温和地指臀部",
+      "topic": "避免尴尬",
+      "note": "可能冒犯：美国 fanny pack 在英国常称 bum bag。",
+      "ukExample": "Avoid that word in formal company.",
+      "usExample": "She landed on her fanny.",
+      "id": "d215"
+    },
+    {
+      "type": "meaning",
+      "word": "fag",
+      "uk": "英国口语中可指香烟",
+      "us": "在美国是针对同性恋者的严重侮辱用语",
+      "topic": "避免尴尬",
+      "note": "不建议使用这个词；说 cigarette 更安全。",
+      "ukExample": "He went outside for a cigarette.",
+      "usExample": "Do not use this slur.",
+      "id": "d216"
+    },
+    {
+      "type": "meaning",
+      "word": "faculty",
+      "uk": "多指大学某个学院或教师群体，需看院校制度",
+      "us": "常泛指大学全体教职人员（尤其教师）",
+      "topic": "教育",
+      "note": "美国 staff / faculty 的区分依院校而异。",
+      "ukExample": "The Faculty of Science held a meeting.",
+      "usExample": "The university faculty voted on the plan.",
+      "id": "d217"
+    },
+    {
+      "type": "meaning",
+      "word": "professor",
+      "uk": "通常为较高的特定学术职位称谓",
+      "us": "更广泛地用于大学教授等教职人员",
+      "topic": "教育",
+      "note": "不能直接以“教授”职称互换，职位等级取决于制度。",
+      "ukExample": "She was appointed professor at the university.",
+      "usExample": "He is a professor of mathematics.",
+      "id": "d218"
+    },
+    {
+      "type": "meaning",
+      "word": "college",
+      "uk": "可指继续教育机构、学院或大学中的组成部分",
+      "us": "常指高等教育机构，口语中可泛称上大学",
+      "topic": "教育",
+      "note": "两地院校组织不完全对应。",
+      "ukExample": "He studied at a further education college.",
+      "usExample": "She's going to college next year.",
+      "id": "d219"
+    },
+    {
+      "type": "meaning",
+      "word": "check",
+      "uk": "常指检查；金融支票写作 cheque",
+      "us": "可指检查，也可指银行支票",
+      "topic": "金融",
+      "note": "拼写与词义有交叉；不只是一条通用拼写替换。",
+      "ukExample": "Please check the figures.",
+      "usExample": "She deposited a check.",
+      "id": "d220"
+    },
+    {
+      "type": "usage",
+      "word": "weekend",
+      "uk": "at the weekend",
+      "us": "on the weekend",
+      "topic": "时间介词",
+      "note": "英国较常用 at the weekend；美国较常用 on the weekend；双方都能理解。",
+      "ukExample": "What are you doing at the weekend?",
+      "usExample": "What are you doing on the weekend?",
+      "id": "d221"
+    },
+    {
+      "type": "usage",
+      "word": "hospital",
+      "uk": "in hospital",
+      "us": "in the hospital",
+      "topic": "冠词",
+      "note": "指“作为病人住院”时，英国常省冠词；美国倾向保留 the。",
+      "ukExample": "She's been in hospital for a week.",
+      "usExample": "She's been in the hospital for a week.",
+      "id": "d222"
+    },
+    {
+      "type": "usage",
+      "word": "university",
+      "uk": "at university",
+      "us": "in college",
+      "topic": "冠词／制度",
+      "note": "求学的习惯表达不同；不是所有学校都与 university/college 一一对应。",
+      "ukExample": "She is at university.",
+      "usExample": "She is in college.",
+      "id": "d223"
+    },
+    {
+      "type": "usage",
+      "word": "get",
+      "uk": "have got / got",
+      "us": "have gotten / got",
+      "topic": "动词形态",
+      "note": "美国 gotten 可表“获得／变成”；表示“拥有”的 I've got 仍两地通用。",
+      "ukExample": "Things have got better.",
+      "usExample": "Things have gotten better.",
+      "id": "d224"
+    },
+    {
+      "type": "usage",
+      "word": "learn",
+      "uk": "learnt / learned",
+      "us": "learned",
+      "topic": "动词形态",
+      "note": "英国两种过去式均有使用；美国更常用 learned。",
+      "ukExample": "She learnt the result yesterday.",
+      "usExample": "She learned the result yesterday.",
+      "id": "d225"
+    },
+    {
+      "type": "usage",
+      "word": "burn",
+      "uk": "burnt / burned",
+      "us": "burned",
+      "topic": "动词形态",
+      "note": "英国 burnt 常见于过去分词及形容词；美国更偏好 burned，但 burnt 也能见到。",
+      "ukExample": "The toast was burnt.",
+      "usExample": "The toast was burned.",
+      "id": "d226"
+    },
+    {
+      "type": "usage",
+      "word": "dream",
+      "uk": "dreamt / dreamed",
+      "us": "dreamed",
+      "topic": "动词形态",
+      "note": "英国 dreamt 相对常见，英国和美国也都可用 dreamed。",
+      "ukExample": "I dreamt about the exam.",
+      "usExample": "I dreamed about the exam.",
+      "id": "d227"
+    },
+    {
+      "type": "usage",
+      "word": "spell",
+      "uk": "spelt / spelled",
+      "us": "spelled",
+      "topic": "动词形态",
+      "note": "英国 spelt 常见，美国较多用 spelled；也要区分名词 spelt（斯佩耳特小麦）。",
+      "ukExample": "She spelt the word correctly.",
+      "usExample": "She spelled the word correctly.",
+      "id": "d228"
+    },
+    {
+      "type": "usage",
+      "word": "fit",
+      "uk": "fitted",
+      "us": "fit",
+      "topic": "动词形态",
+      "note": "指“合身”时，美国过去式常用 fit；英国较常用 fitted；给设备安装时两地也可用 fitted。",
+      "ukExample": "The coat fitted perfectly.",
+      "usExample": "The coat fit perfectly.",
+      "id": "d229"
+    },
+    {
+      "type": "usage",
+      "word": "prove",
+      "uk": "proved",
+      "us": "proven / proved",
+      "topic": "动词形态",
+      "note": "美国 proven 作为过去分词更常见；英国 proved 常见，两者均存在。",
+      "ukExample": "The theory has been proved false.",
+      "usExample": "The theory has been proven false.",
+      "id": "d230"
+    },
+    {
+      "type": "usage",
+      "word": "team",
+      "uk": "The team are …",
+      "us": "The team is …",
+      "topic": "主谓一致",
+      "note": "英式英语集体名词可按成员视角用复数；美式更偏好单数。",
+      "ukExample": "The team are ready for the match.",
+      "usExample": "The team is ready for the game.",
+      "id": "d231"
+    },
+    {
+      "type": "usage",
+      "word": "government",
+      "uk": "The government have …",
+      "us": "The government has …",
+      "topic": "主谓一致",
+      "note": "英国视角不同可用单数或复数；美国单数通常更自然。",
+      "ukExample": "The government have announced changes.",
+      "usExample": "The government has announced changes.",
+      "id": "d232"
+    },
+    {
+      "type": "usage",
+      "word": "just",
+      "uk": "I've just eaten.",
+      "us": "I just ate.",
+      "topic": "时态",
+      "note": "英国更倾向用现在完成时表达与现在相关的刚发生事件；美国口语也常用一般过去时。",
+      "ukExample": "I've just eaten lunch.",
+      "usExample": "I just ate lunch.",
+      "id": "d233"
+    },
+    {
+      "type": "usage",
+      "word": "already",
+      "uk": "Have you already sent it?",
+      "us": "Did you already send it?",
+      "topic": "时态",
+      "note": "美国较常用一般过去时；两种时态双方都能使用。",
+      "ukExample": "Have you already sent the report?",
+      "usExample": "Did you already send the report?",
+      "id": "d234"
+    },
+    {
+      "type": "usage",
+      "word": "yet",
+      "uk": "Have you finished yet?",
+      "us": "Did you finish yet?",
+      "topic": "时态",
+      "note": "美国口语中一般过去时更加常见；英国更倾向完成时。",
+      "ukExample": "Have you finished yet?",
+      "usExample": "Did you finish yet?",
+      "id": "d235"
+    },
+    {
+      "type": "usage",
+      "word": "shower",
+      "uk": "have a shower",
+      "us": "take a shower",
+      "topic": "日常搭配",
+      "note": "不是禁用规则；两种搭配都能理解。",
+      "ukExample": "I usually have a shower in the morning.",
+      "usExample": "I usually take a shower in the morning.",
+      "id": "d236"
+    },
+    {
+      "type": "usage",
+      "word": "bath",
+      "uk": "have a bath",
+      "us": "take a bath",
+      "topic": "日常搭配",
+      "note": "美国 take a bath 更常见，英国 have a bath 常见。",
+      "ukExample": "She had a bath before bed.",
+      "usExample": "She took a bath before bed.",
+      "id": "d237"
+    },
+    {
+      "type": "usage",
+      "word": "exam",
+      "uk": "sit an exam",
+      "us": "take an exam",
+      "topic": "教育搭配",
+      "note": "英式 sit an exam 较常见；美国 take an exam 更常见。",
+      "ukExample": "I have to sit an exam tomorrow.",
+      "usExample": "I have to take an exam tomorrow.",
+      "id": "d238"
+    },
+    {
+      "type": "usage",
+      "word": "question",
+      "uk": "have you got a question?",
+      "us": "do you have a question?",
+      "topic": "所有与存在",
+      "note": "英国 have got 常见；美国 do you have 常见；两者均跨地域使用。",
+      "ukExample": "Have you got any questions?",
+      "usExample": "Do you have any questions?",
+      "id": "d239"
+    },
+    {
+      "type": "usage",
+      "word": "Monday",
+      "uk": "Monday to Friday",
+      "us": "Monday through Friday",
+      "topic": "时间范围",
+      "note": "美国 through 强调两端都包括，英国 to 常用；美国也用 to。",
+      "ukExample": "The office is open Monday to Friday.",
+      "usExample": "The office is open Monday through Friday.",
+      "id": "d240"
+    },
+    {
+      "type": "usage",
+      "word": "different",
+      "uk": "different from / different to",
+      "us": "different from / different than",
+      "topic": "比较搭配",
+      "note": "different from 两地均可用；to 英国相对常见，than 美国相对常见。",
+      "ukExample": "This differs from what I expected.",
+      "usExample": "This is different than I expected.",
+      "id": "d241"
+    },
+    {
+      "type": "usage",
+      "word": "write",
+      "uk": "write to someone",
+      "us": "write someone",
+      "topic": "动词搭配",
+      "note": "英式更常保留 to；美国 write someone 也很自然，两地都能使用 write to。",
+      "ukExample": "I'll write to the manager.",
+      "usExample": "I'll write the manager.",
+      "id": "d242"
+    },
+    {
+      "type": "usage",
+      "word": "shall",
+      "uk": "Shall we…?",
+      "us": "Should we…? / Let's…",
+      "topic": "情态动词",
+      "note": "英国较常见 shall we 用于提议；美国也可用但频率较低。",
+      "ukExample": "Shall we start?",
+      "usExample": "Should we start?",
+      "id": "d243"
+    },
+    {
+      "type": "usage",
+      "word": "math",
+      "uk": "maths",
+      "us": "math",
+      "topic": "教育与简称",
+      "note": "只是 mathematics 的常见缩写差异；不是两个不同学科。",
+      "ukExample": "Maths is my favourite subject.",
+      "usExample": "Math is my favorite subject.",
+      "id": "d244"
+    },
+    {
+      "type": "spelling",
+      "uk": "aeroplane",
+      "us": "airplane",
+      "topic": "其他拼写",
+      "note": "两地也都用 aircraft；英国 aeroplane、美国 airplane 更常见。",
+      "id": "d245"
+    },
+    {
+      "type": "spelling",
+      "uk": "aeroplanes",
+      "us": "airplanes",
+      "topic": "其他拼写",
+      "note": "复数写法；不影响所指。",
+      "id": "d246"
+    },
+    {
+      "type": "spelling",
+      "uk": "cosy",
+      "us": "cozy",
+      "topic": "其他拼写",
+      "note": "两种拼法均能理解，地域偏好不同。",
+      "id": "d247"
+    },
+    {
+      "type": "spelling",
+      "uk": "cosiness",
+      "us": "coziness",
+      "topic": "其他拼写",
+      "note": "同源派生词保留相应拼写。",
+      "id": "d248"
+    },
+    {
+      "type": "spelling",
+      "uk": "sceptic",
+      "us": "skeptic",
+      "topic": "其他拼写",
+      "note": "英国 sceptic、美国 skeptic 较常见。",
+      "id": "d249"
+    },
+    {
+      "type": "spelling",
+      "uk": "sceptical",
+      "us": "skeptical",
+      "topic": "其他拼写",
+      "note": "英国 sceptical、美国 skeptical 较常见。",
+      "id": "d250"
+    },
+    {
+      "type": "spelling",
+      "uk": "scepticism",
+      "us": "skepticism",
+      "topic": "其他拼写",
+      "note": "英国 scepticism、美国 skepticism 较常见。",
+      "id": "d251"
+    },
+    {
+      "type": "spelling",
+      "uk": "moustache",
+      "us": "mustache",
+      "topic": "其他拼写",
+      "note": "两种拼法仅存在偏好差别。",
+      "id": "d252"
+    },
+    {
+      "type": "spelling",
+      "uk": "draught",
+      "us": "draft",
+      "topic": "其他拼写",
+      "note": "指气流、啤酒（draught beer）等时英国常写 draught；draft 在英国也有“草稿”等用法，不可全局替换。",
+      "id": "d253"
+    },
+    {
+      "type": "spelling",
+      "uk": "artefact",
+      "us": "artifact",
+      "topic": "其他拼写",
+      "note": "英国也广泛使用 artifact；偏好而非严格互斥。",
+      "id": "d254"
+    },
+    {
+      "type": "spelling",
+      "uk": "fulfil",
+      "us": "fulfill",
+      "topic": "辅音双写",
+      "note": "英国 fulfil， 美国 fulfill；注意辅音数量与其他词型不一致。",
+      "id": "d255"
+    },
+    {
+      "type": "spelling",
+      "uk": "fulfilment",
+      "us": "fulfillment",
+      "topic": "辅音双写",
+      "note": "英式常单 l，美国常双 l。",
+      "id": "d256"
+    },
+    {
+      "type": "spelling",
+      "uk": "skilful",
+      "us": "skillful",
+      "topic": "辅音双写",
+      "note": "英国 skilful、美国 skillful，注意 skill 自身两地均为双 l。",
+      "id": "d257"
+    },
+    {
+      "type": "spelling",
+      "uk": "skilfully",
+      "us": "skillfully",
+      "topic": "辅音双写",
+      "note": "派生形式沿用不同拼写。",
+      "id": "d258"
+    },
+    {
+      "type": "spelling",
+      "uk": "enrol",
+      "us": "enroll",
+      "topic": "辅音双写",
+      "note": "英国 enrol， 美国 enroll。",
+      "id": "d259"
+    },
+    {
+      "type": "spelling",
+      "uk": "enrolment",
+      "us": "enrollment",
+      "topic": "辅音双写",
+      "note": "英国 enrolment，美国 enrollment。",
+      "id": "d260"
+    },
+    {
+      "type": "spelling",
+      "uk": "instalment",
+      "us": "installment",
+      "topic": "辅音双写",
+      "note": "英国 instalment，美国 installment。",
+      "id": "d261"
+    },
+    {
+      "type": "spelling",
+      "uk": "instalments",
+      "us": "installments",
+      "topic": "辅音双写",
+      "note": "分期付款／分期发行，语义基本相同。",
+      "id": "d262"
+    },
+    {
+      "type": "spelling",
+      "uk": "woollen",
+      "us": "woolen",
+      "topic": "辅音双写",
+      "note": "英国 woollen、美国 woolen 较常见。",
+      "id": "d263"
+    },
+    {
+      "type": "spelling",
+      "uk": "woollens",
+      "us": "woolens",
+      "topic": "辅音双写",
+      "note": "英国和美国各有两种拼写，但偏好不同。",
+      "id": "d264"
+    },
+    {
+      "type": "spelling",
+      "uk": "modeller",
+      "us": "modeler",
+      "topic": "辅音双写",
+      "note": "与 modelling / modeling 一致。",
+      "id": "d265"
+    },
+    {
+      "type": "spelling",
+      "uk": "counselled",
+      "us": "counseled",
+      "topic": "辅音双写",
+      "note": "与 counselling / counseling 一致。",
+      "id": "d266"
+    },
+    {
+      "type": "spelling",
+      "uk": "medallist",
+      "us": "medalist",
+      "topic": "辅音双写",
+      "note": "英国常用双 l，美国常用单 l。",
+      "id": "d267"
+    },
+    {
+      "type": "spelling",
+      "uk": "medallists",
+      "us": "medalists",
+      "topic": "辅音双写",
+      "note": "复数遵循相应偏好。",
+      "id": "d268"
+    },
+    {
+      "type": "spelling",
+      "uk": "quarrelling",
+      "us": "quarreling",
+      "topic": "辅音双写",
+      "note": "美式简化较常见。",
+      "id": "d269"
+    },
+    {
+      "type": "spelling",
+      "uk": "quarrelled",
+      "us": "quarreled",
+      "topic": "辅音双写",
+      "note": "两种拼法均可读懂。",
+      "id": "d270"
+    },
+    {
+      "type": "spelling",
+      "uk": "travellers",
+      "us": "travelers",
+      "topic": "辅音双写",
+      "note": "衍生复数形式。",
+      "id": "d271"
+    },
+    {
+      "type": "spelling",
+      "uk": "smoulder",
+      "us": "smolder",
+      "topic": "其他拼写",
+      "note": "表示闷烧、暗中燃烧；美国常用 smolder。",
+      "id": "d272"
+    },
+    {
+      "type": "spelling",
+      "uk": "smouldering",
+      "us": "smoldering",
+      "topic": "其他拼写",
+      "note": "表示正在闷烧，也可引申情绪积蓄。",
+      "id": "d273"
+    },
+    {
+      "type": "spelling",
+      "uk": "mouldy",
+      "us": "moldy",
+      "topic": "其他拼写",
+      "note": "形容发霉；不同于 mould 的其他义项。",
+      "id": "d274"
+    },
+    {
+      "type": "spelling",
+      "uk": "moulding",
+      "us": "molding",
+      "topic": "其他拼写",
+      "note": "用于成型／装饰线条；两种拼法很常见。",
+      "id": "d275"
+    },
+    {
+      "type": "spelling",
+      "uk": "anaesthetic",
+      "us": "anesthetic",
+      "topic": "医学拼写",
+      "note": "英国 anaesthetic，美国 anesthetic 较常见。",
+      "id": "d276"
+    },
+    {
+      "type": "spelling",
+      "uk": "anaesthesia",
+      "us": "anesthesia",
+      "topic": "医学拼写",
+      "note": "英国 anaesthesia，美国 anesthesia 较常见。",
+      "id": "d277"
+    },
+    {
+      "type": "spelling",
+      "uk": "haemoglobin",
+      "us": "hemoglobin",
+      "topic": "医学拼写",
+      "note": "血红蛋白，常见医学拼写差异。",
+      "id": "d278"
+    },
+    {
+      "type": "spelling",
+      "uk": "haemorrhage",
+      "us": "hemorrhage",
+      "topic": "医学拼写",
+      "note": "出血，医学文本需遵循机构或期刊拼写规则。",
+      "id": "d279"
+    },
+    {
+      "type": "spelling",
+      "uk": "haemorrhagic",
+      "us": "hemorrhagic",
+      "topic": "医学拼写",
+      "note": "出血性的；与 haemorrhage / hemorrhage 对应。",
+      "id": "d280"
+    },
+    {
+      "type": "spelling",
+      "uk": "leukaemia",
+      "us": "leukemia",
+      "topic": "医学拼写",
+      "note": "白血病，英国传统拼法保留 ae。",
+      "id": "d281"
+    },
+    {
+      "type": "spelling",
+      "uk": "diarrhoea",
+      "us": "diarrhea",
+      "topic": "医学拼写",
+      "note": "腹泻，注意医学病历常用地区写法。",
+      "id": "d282"
+    },
+    {
+      "type": "spelling",
+      "uk": "oedema",
+      "us": "edema",
+      "topic": "医学拼写",
+      "note": "水肿，英国 oedema、美国 edema。",
+      "id": "d283"
+    },
+    {
+      "type": "spelling",
+      "uk": "orthopaedic",
+      "us": "orthopedic",
+      "topic": "医学拼写",
+      "note": "矫形外科相关；英国也出现 orthopedic。",
+      "id": "d284"
+    },
+    {
+      "type": "spelling",
+      "uk": "gynaecology",
+      "us": "gynecology",
+      "topic": "医学拼写",
+      "note": "妇科学，英国 gynaecology、美国 gynecology 较常见。",
+      "id": "d285"
+    },
+    {
+      "type": "spelling",
+      "uk": "caesarean",
+      "us": "cesarean",
+      "topic": "医学拼写",
+      "note": "剖宫产手术；美国也有 Caesarean 等其他变体。",
+      "id": "d286"
+    },
+    {
+      "type": "spelling",
+      "uk": "paediatrician",
+      "us": "pediatrician",
+      "topic": "医学拼写",
+      "note": "儿科医生；与 paediatric / pediatric 同源。",
+      "id": "d287"
+    },
+    {
+      "type": "spelling",
+      "uk": "sulphate",
+      "us": "sulfate",
+      "topic": "科学拼写",
+      "note": "化学命名体系常采用 sulfate，英国传统 sulphate 仍可见；科技写作优先按规范。",
+      "id": "d288"
+    },
+    {
+      "type": "spelling",
+      "uk": "sulphide",
+      "us": "sulfide",
+      "topic": "科学拼写",
+      "note": "化学命名体系常采用 sulfide；英国旧式 sulphide 仍可见。",
+      "id": "d289"
+    },
+    {
+      "type": "spelling",
+      "uk": "acknowledgement",
+      "us": "acknowledgment",
+      "topic": "其他拼写",
+      "note": "英国两种形式都可使用；美国更偏好不带 e 的 acknowledgment。",
+      "id": "d290"
+    },
+    {
+      "type": "spelling",
+      "uk": "acknowledgements",
+      "us": "acknowledgments",
+      "topic": "其他拼写",
+      "note": "出版物致谢标题常见不同写法。",
+      "id": "d291"
+    },
+    {
+      "type": "spelling",
+      "uk": "judgemental",
+      "us": "judgmental",
+      "topic": "其他拼写",
+      "note": "英国也可用 judgmental；并非绝对地区差异。",
+      "id": "d292"
+    },
+    {
+      "type": "spelling",
+      "uk": "storeys",
+      "us": "stories",
+      "topic": "其他拼写",
+      "note": "专指建筑楼层的复数；stories 也表示故事，不要机械替换。",
+      "id": "d293"
+    },
+    {
+      "type": "spelling",
+      "uk": "kerbs",
+      "us": "curbs",
+      "topic": "其他拼写",
+      "note": "专指人行道路缘，不涉及 curb 的“限制”义。",
+      "id": "d294"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "petrol station",
+      "us": "gas station",
+      "zh": "加油站",
+      "topic": "交通",
+      "note": "美国也说 filling station；英国也有 filling station",
+      "ukExample": "There's a petrol station ahead.",
+      "usExample": "There's a gas station ahead.",
+      "id": "d295"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "hire car",
+      "us": "rental car",
+      "zh": "租用的汽车",
+      "topic": "交通",
+      "note": "英国 hire 常见于租车，美国 rental 更常见",
+      "ukExample": "We booked a hire car.",
+      "usExample": "We booked a rental car.",
+      "id": "d296"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "return ticket",
+      "us": "round-trip ticket",
+      "zh": "往返票",
+      "topic": "交通",
+      "note": "美国也说 round-trip fare；英国 return 的含义依票务规则而定",
+      "ukExample": "I'd like a return ticket.",
+      "usExample": "I'd like a round-trip ticket.",
+      "id": "d297"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "single ticket",
+      "us": "one-way ticket",
+      "zh": "单程票",
+      "topic": "交通",
+      "note": "英国也说 one-way；美国单程更常说 one-way",
+      "ukExample": "One single ticket to York, please.",
+      "usExample": "One one-way ticket to Boston, please.",
+      "id": "d298"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "railway",
+      "us": "railroad",
+      "zh": "铁路",
+      "topic": "交通",
+      "note": "两地 railway / railroad 都存在，但使用偏好不同",
+      "ukExample": "The railway crosses the valley.",
+      "usExample": "The railroad crosses the valley.",
+      "id": "d299"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "underground",
+      "us": "subway",
+      "zh": "城市地下铁路",
+      "topic": "交通",
+      "note": "英国常称 the Underground / the Tube；美国 subway 常见；英国 subway 常可指人行地下通道",
+      "ukExample": "Take the Underground to the museum.",
+      "usExample": "Take the subway to the museum.",
+      "id": "d300"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "zebra crossing",
+      "us": "crosswalk",
+      "zh": "斑马线／行人过街处",
+      "topic": "交通",
+      "note": "英国 zebra crossing 特指一种带标志的行人横道；美国 crosswalk 范围更广",
+      "ukExample": "Use the zebra crossing.",
+      "usExample": "Use the crosswalk.",
+      "id": "d301"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "pedestrian crossing",
+      "us": "crosswalk",
+      "zh": "行人过街处",
+      "topic": "交通",
+      "note": "crosswalk 有时指道路上画出的行人过街线；英国亦使用 crossing",
+      "ukExample": "The pedestrian crossing is ahead.",
+      "usExample": "The crosswalk is ahead.",
+      "id": "d302"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "flyover",
+      "us": "overpass",
+      "zh": "跨线桥",
+      "topic": "交通",
+      "note": "两地均能理解另一表达，但具体交通构造名称可能不同",
+      "ukExample": "The flyover is closed.",
+      "usExample": "The overpass is closed.",
+      "id": "d303"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "dual carriageway",
+      "us": "divided highway",
+      "zh": "中央分隔的双向道路",
+      "topic": "交通",
+      "note": "道路分类与法规定义并非一一对应",
+      "ukExample": "This dual carriageway has a central barrier.",
+      "usExample": "This divided highway has a median.",
+      "id": "d304"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "caravan",
+      "us": "travel trailer",
+      "zh": "拖挂式旅行房车",
+      "topic": "交通",
+      "note": "英国 caravan 可指固定式或拖挂式；美国 travel trailer 通常指拖挂式",
+      "ukExample": "They bought a touring caravan.",
+      "usExample": "They bought a travel trailer.",
+      "id": "d305"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "bonnet release",
+      "us": "hood release",
+      "zh": "引擎盖开启杆",
+      "topic": "交通",
+      "note": "与 bonnet / hood 对应；不同车型标签不同",
+      "ukExample": "Pull the bonnet release.",
+      "usExample": "Pull the hood release.",
+      "id": "d306"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "holidaymaker",
+      "us": "vacationer",
+      "zh": "度假者",
+      "topic": "旅行",
+      "note": "美国也会说 tourist，语义不完全相同",
+      "ukExample": "The resort is full of holidaymakers.",
+      "usExample": "The resort is full of vacationers.",
+      "id": "d307"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "queue up",
+      "us": "line up",
+      "zh": "排队",
+      "topic": "日常生活",
+      "note": "美国也使用 queue up（较少），英国也能说 line up",
+      "ukExample": "Please queue up here.",
+      "usExample": "Please line up here.",
+      "id": "d308"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "fortnight",
+      "us": "two weeks",
+      "zh": "两周",
+      "topic": "时间",
+      "note": "fortnight 在英国很常见，在美国相对少见",
+      "ukExample": "I'll be away for a fortnight.",
+      "usExample": "I'll be away for two weeks.",
+      "id": "d309"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "shop",
+      "us": "store",
+      "zh": "商店",
+      "topic": "购物",
+      "note": "英国也能说 store（尤其大型零售商）；美国 store 更通用",
+      "ukExample": "The shop closes at six.",
+      "usExample": "The store closes at six.",
+      "id": "d310"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "shop assistant",
+      "us": "sales clerk",
+      "zh": "店员",
+      "topic": "购物",
+      "note": "美国也常说 sales associate；两者的工作职责不总一致",
+      "ukExample": "Ask the shop assistant.",
+      "usExample": "Ask the sales clerk.",
+      "id": "d311"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "till",
+      "us": "cash register",
+      "zh": "收银机",
+      "topic": "购物",
+      "note": "英国 till 常见；美国也可能说 register / till",
+      "ukExample": "The money is in the till.",
+      "usExample": "The money is in the cash register.",
+      "id": "d312"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "cashpoint",
+      "us": "ATM",
+      "zh": "自动取款机",
+      "topic": "购物",
+      "note": "cashpoint 在英国常见，有商标历史；ATM 两地均通用",
+      "ukExample": "There's a cashpoint outside.",
+      "usExample": "There's an ATM outside.",
+      "id": "d313"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "high street",
+      "us": "main street",
+      "zh": "城镇主要商业街",
+      "topic": "购物",
+      "note": "城市规划背景不同，未必是完全对应的街道",
+      "ukExample": "There are many shops on the high street.",
+      "usExample": "There are many stores on Main Street.",
+      "id": "d314"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "cling film",
+      "us": "plastic wrap",
+      "zh": "食品保鲜膜",
+      "topic": "居家",
+      "note": "英国也用 clingfilm；美国可说 cling wrap",
+      "ukExample": "Cover it with cling film.",
+      "usExample": "Cover it with plastic wrap.",
+      "id": "d315"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "washing-up liquid",
+      "us": "dish soap",
+      "zh": "洗洁精",
+      "topic": "居家",
+      "note": "美国也说 dishwashing liquid；不等同于洗衣液",
+      "ukExample": "Add some washing-up liquid.",
+      "usExample": "Add some dish soap.",
+      "id": "d316"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "tea towel",
+      "us": "dish towel",
+      "zh": "擦碗布",
+      "topic": "居家",
+      "note": "布巾用途可能更广；不是 tea 的一种",
+      "ukExample": "Dry the plates with a tea towel.",
+      "usExample": "Dry the plates with a dish towel.",
+      "id": "d317"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "flannel",
+      "us": "washcloth",
+      "zh": "洗脸巾／毛巾",
+      "topic": "居家",
+      "note": "美国 flannel 更常用于一种布料，英国 flannel 也指洗脸巾",
+      "ukExample": "Use a clean flannel.",
+      "usExample": "Use a clean washcloth.",
+      "id": "d318"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "sellotape",
+      "us": "Scotch tape",
+      "zh": "透明胶带",
+      "topic": "居家",
+      "note": "均源于商标，泛指透明胶带的用法依地区／品牌而异",
+      "ukExample": "Have you got any Sellotape?",
+      "usExample": "Do you have any Scotch tape?",
+      "id": "d319"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "cot",
+      "us": "crib",
+      "zh": "婴儿床",
+      "topic": "家庭",
+      "note": "美国 cot 常指可折叠简易床，英国 cot 多指有围栏的婴儿床",
+      "ukExample": "The baby is in the cot.",
+      "usExample": "The baby is in the crib.",
+      "id": "d320"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "dressing gown",
+      "us": "bathrobe",
+      "zh": "浴袍／睡袍",
+      "topic": "衣着",
+      "note": "两种用词可能指不同材质与设计，通常接近",
+      "ukExample": "She put on her dressing gown.",
+      "usExample": "She put on her bathrobe.",
+      "id": "d321"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "fringe",
+      "us": "bangs",
+      "zh": "刘海",
+      "topic": "衣着",
+      "note": "美国 bangs 为头发前部刘海；英国 fringe 较常见",
+      "ukExample": "She cut her fringe.",
+      "usExample": "She cut her bangs.",
+      "id": "d322"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "swimming costume",
+      "us": "swimsuit",
+      "zh": "泳衣",
+      "topic": "衣着",
+      "note": "两种都存在；英国 swimming costume 更常见",
+      "ukExample": "She packed her swimming costume.",
+      "usExample": "She packed her swimsuit.",
+      "id": "d323"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "revision",
+      "us": "studying",
+      "zh": "考前复习",
+      "topic": "教育",
+      "note": "英国常说 do revision / revise for an exam，美国通常说 study for an exam",
+      "ukExample": "I need to do some revision.",
+      "usExample": "I need to do some studying.",
+      "id": "d325"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "primary school",
+      "us": "elementary school",
+      "zh": "小学",
+      "topic": "教育",
+      "note": "不同教育体系年级划分未必一致",
+      "ukExample": "She teaches at a primary school.",
+      "usExample": "She teaches at an elementary school.",
+      "id": "d326"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "secondary school",
+      "us": "high school",
+      "zh": "中学",
+      "topic": "教育",
+      "note": "英国 secondary school 往往包含更广年龄段；与美国 high school 不是严格对应",
+      "ukExample": "He attends secondary school.",
+      "usExample": "He attends high school.",
+      "id": "d327"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "timetable",
+      "us": "schedule",
+      "zh": "时间表／课程表",
+      "topic": "教育与日程",
+      "note": "美国也使用 timetable（尤指列车）；英国也常使用 schedule",
+      "ukExample": "Check your timetable.",
+      "usExample": "Check your schedule.",
+      "id": "d328"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "CV",
+      "us": "résumé",
+      "zh": "求职简历",
+      "topic": "职场",
+      "note": "美国学术界 CV 通常是详细学术履历；英国 CV 常是一般求职简历",
+      "ukExample": "Please attach your CV.",
+      "usExample": "Please attach your résumé.",
+      "id": "d329"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "covering letter",
+      "us": "cover letter",
+      "zh": "求职附信",
+      "topic": "职场",
+      "note": "英国也常用 cover letter；偏好不同",
+      "ukExample": "Include a covering letter.",
+      "usExample": "Include a cover letter.",
+      "id": "d330"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "noticeboard",
+      "us": "bulletin board",
+      "zh": "公告板",
+      "topic": "职场",
+      "note": "两地都可用于实体公告牌，也可能指线上讨论区",
+      "ukExample": "The notice is on the noticeboard.",
+      "usExample": "The notice is on the bulletin board.",
+      "id": "d331"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "caretaker",
+      "us": "janitor",
+      "zh": "楼宇管理员／保洁人员",
+      "topic": "职场",
+      "note": "岗位职责与社会语境不同，并非完全可互换",
+      "ukExample": "Ask the school caretaker.",
+      "usExample": "Ask the school janitor.",
+      "id": "d332"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "A&E",
+      "us": "emergency room",
+      "zh": "医院急诊科",
+      "topic": "医疗",
+      "note": "英国 A&E = Accident and Emergency；美国常用 ER / emergency department",
+      "ukExample": "She went to A&E.",
+      "usExample": "She went to the emergency room.",
+      "id": "d333"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "GP surgery",
+      "us": "doctor's office",
+      "zh": "全科医生诊所",
+      "topic": "医疗",
+      "note": "英国 surgery 在此指基层医疗诊所，不等于外科手术",
+      "ukExample": "Call the GP surgery.",
+      "usExample": "Call the doctor's office.",
+      "id": "d334"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "paracetamol",
+      "us": "acetaminophen",
+      "zh": "对乙酰氨基酚",
+      "topic": "医疗",
+      "note": "药品通用名不同；具体品牌不同，注意药品剂量说明",
+      "ukExample": "The medicine contains paracetamol.",
+      "usExample": "The medicine contains acetaminophen.",
+      "id": "d335"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "rocket",
+      "us": "arugula",
+      "zh": "芝麻菜",
+      "topic": "饮食",
+      "note": "英国 rocket、美国 arugula 常见",
+      "ukExample": "Add some rocket to the salad.",
+      "usExample": "Add some arugula to the salad.",
+      "id": "d337"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "swede",
+      "us": "rutabaga",
+      "zh": "瑞典芜菁",
+      "topic": "饮食",
+      "note": "在英国 swede 是根菜；美国 rutabaga 常见",
+      "ukExample": "Roast the swede with carrots.",
+      "usExample": "Roast the rutabaga with carrots.",
+      "id": "d338"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "beetroot",
+      "us": "beet",
+      "zh": "甜菜根",
+      "topic": "饮食",
+      "note": "美国 beet 指甜菜；英国 beetroot 强调可食根部",
+      "ukExample": "Slice the beetroot thinly.",
+      "usExample": "Slice the beet thinly.",
+      "id": "d339"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "ice lolly",
+      "us": "popsicle",
+      "zh": "冰棒",
+      "topic": "饮食",
+      "note": "美国 Popsicle 原为商标，也常泛指冰棒",
+      "ukExample": "She bought an ice lolly.",
+      "usExample": "She bought a popsicle.",
+      "id": "d340"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "fizzy drink",
+      "us": "soda",
+      "zh": "碳酸饮料",
+      "topic": "饮食",
+      "note": "美国各地还说 pop、soft drink；英国也使用 soft drink",
+      "ukExample": "Would you like a fizzy drink?",
+      "usExample": "Would you like a soda?",
+      "id": "d341"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "candy floss",
+      "us": "cotton candy",
+      "zh": "棉花糖",
+      "topic": "饮食",
+      "note": "英国 candyfloss 和 candy floss 都可见",
+      "ukExample": "The fair sells candy floss.",
+      "usExample": "The fair sells cotton candy.",
+      "id": "d342"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "minced beef",
+      "us": "ground beef",
+      "zh": "牛肉末",
+      "topic": "饮食",
+      "note": "英国也用 beef mince；两地在肉馅瘦肉比例等方面可能有标签差别",
+      "ukExample": "Use minced beef for the sauce.",
+      "usExample": "Use ground beef for the sauce.",
+      "id": "d343"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "icing",
+      "us": "frosting",
+      "zh": "蛋糕糖霜",
+      "topic": "饮食",
+      "note": "英国 icing 的范围较广；美国 frosting 通常是蛋糕上较厚的糖霜",
+      "ukExample": "The cake has pink icing.",
+      "usExample": "The cake has pink frosting.",
+      "id": "d344"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "jacket potato",
+      "us": "baked potato",
+      "zh": "烤带皮土豆",
+      "topic": "饮食",
+      "note": "美国也能理解 jacket potato；常见菜品装饰有差别",
+      "ukExample": "I ordered a jacket potato.",
+      "usExample": "I ordered a baked potato.",
+      "id": "d345"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "flapjack",
+      "us": "oat bar",
+      "zh": "燕麦烤条",
+      "topic": "饮食",
+      "note": "英国 flapjack 是以燕麦为主的烤条；美国 flapjack 常指煎饼",
+      "ukExample": "She made flapjacks with oats.",
+      "usExample": "She made oat bars with oats.",
+      "id": "d346"
+    },
+    {
+      "type": "meaning",
+      "word": "flapjack",
+      "uk": "燕麦、糖浆或黄油制作的烤条",
+      "us": "煎饼（类似 pancake）",
+      "topic": "饮食",
+      "note": "同一词所指食品差异很大；英国人可能将 oat bar 用于美国式明确表达",
+      "ukExample": "The café sells homemade flapjacks.",
+      "usExample": "We had flapjacks for breakfast.",
+      "id": "d347"
+    },
+    {
+      "type": "meaning",
+      "word": "jelly",
+      "uk": "通常指明胶制成的果冻甜点",
+      "us": "通常指经过过滤的果酱状抹酱",
+      "topic": "饮食",
+      "note": "美国 gelatin dessert / Jell-O 更接近英式 jelly；英式 jam 接近美国 jam / jelly，但口感不同",
+      "ukExample": "We had strawberry jelly for dessert.",
+      "usExample": "She put grape jelly on her toast.",
+      "id": "d348"
+    },
+    {
+      "type": "meaning",
+      "word": "pudding",
+      "uk": "可以泛指甜点，也可指各类布丁或咸味菜",
+      "us": "通常指一种浓稠奶甜品（也可泛指甜点）",
+      "topic": "饮食",
+      "note": "英国 pudding 语义更广；美国也知道 bread pudding 等具体菜品",
+      "ukExample": "What's for pudding?",
+      "usExample": "She made chocolate pudding.",
+      "id": "d349"
+    },
+    {
+      "type": "meaning",
+      "word": "entrée",
+      "uk": "在一些英国及欧洲菜单中可指前菜，但用法因餐厅而异",
+      "us": "美国餐厅通常指主菜",
+      "topic": "餐饮",
+      "note": "英式菜单常写 starter / main course；看菜单分类最稳妥",
+      "ukExample": "The entrée was served before the main course.",
+      "usExample": "The entrée comes with two sides.",
+      "id": "d350"
+    },
+    {
+      "type": "meaning",
+      "word": "cot",
+      "uk": "通常指婴儿睡的小床（有围栏）",
+      "us": "通常指折叠式简易床／行军床",
+      "topic": "家庭",
+      "note": "美国婴儿小床通常是 crib；酒店临时加床常叫 cot",
+      "ukExample": "The baby is asleep in her cot.",
+      "usExample": "We asked the hotel for a cot.",
+      "id": "d351"
+    },
+    {
+      "type": "meaning",
+      "word": "chemist",
+      "uk": "英国日常语境中常指药剂师／药房工作人员",
+      "us": "通常指化学家或化学专业人员",
+      "topic": "职场／医疗",
+      "note": "美国 pharmacist 更接近英式 chemist 的医药职业含义",
+      "ukExample": "Ask the chemist about this medicine.",
+      "usExample": "The chemist analyzed the sample.",
+      "id": "d352"
+    },
+    {
+      "type": "meaning",
+      "word": "pissed",
+      "uk": "在英国俚语中常指喝醉（也可指愤怒）",
+      "us": "在美国俚语中常指非常恼火",
+      "topic": "语体与礼貌",
+      "note": "属于口语粗俗表达，正式交际请改用 drunk / angry",
+      "ukExample": "He got pissed at the pub.",
+      "usExample": "I'm pissed about the delay.",
+      "id": "d353"
+    },
+    {
+      "type": "meaning",
+      "word": "smart",
+      "uk": "英国可特别指穿着得体、整洁、精干，也表示聪明",
+      "us": "美国更常用于聪明、机敏，也可形容得体",
+      "topic": "外貌与能力",
+      "note": "两地意义均有重叠，不能简单把 smart 固定翻译成一个词",
+      "ukExample": "She looks smart in that suit.",
+      "usExample": "She's a smart engineer.",
+      "id": "d354"
+    },
+    {
+      "type": "meaning",
+      "word": "footballer",
+      "uk": "通常指踢英式足球的运动员",
+      "us": "可能需要说 soccer player 才能消除歧义",
+      "topic": "体育",
+      "note": "美国 football player 常指美式橄榄球运动员；注意所指运动",
+      "ukExample": "She's a professional footballer.",
+      "usExample": "She's a professional soccer player.",
+      "id": "d355"
+    },
+    {
+      "type": "meaning",
+      "word": "momentarily",
+      "uk": "通常表示片刻、短暂地（也能出现“马上”义）",
+      "us": "常表示片刻之后、马上（也能表示短暂地）",
+      "topic": "时间与语义",
+      "note": "两地都有交叉用法；涉及安全或准确时间时宜说 briefly / in a moment",
+      "ukExample": "The signal disappeared momentarily.",
+      "usExample": "The train will depart momentarily.",
+      "id": "d357"
+    },
+    {
+      "type": "usage",
+      "word": "weekends",
+      "uk": "at weekends",
+      "us": "on weekends",
+      "topic": "时间介词",
+      "note": "英国较常见 at weekends，美国 on weekends 常见；前者不应误作绝对规则",
+      "ukExample": "I work at weekends.",
+      "usExample": "I work on weekends.",
+      "id": "d358"
+    },
+    {
+      "type": "usage",
+      "word": "school",
+      "uk": "at school",
+      "us": "in school",
+      "topic": "教育与介词",
+      "note": "英国 at school 可表示在校或上学，美国 in school 常指接受教育；不同语境两个表达都存在",
+      "ukExample": "My son is still at school.",
+      "usExample": "My son is still in school.",
+      "id": "d359"
+    },
+    {
+      "type": "usage",
+      "word": "hospital visit",
+      "uk": "take someone to hospital",
+      "us": "take someone to the hospital",
+      "topic": "冠词",
+      "note": "指送病人去医院时，美国通常保留 the；英国可省略",
+      "ukExample": "They took her to hospital.",
+      "usExample": "They took her to the hospital.",
+      "id": "d360"
+    },
+    {
+      "type": "usage",
+      "word": "the street",
+      "uk": "in the street",
+      "us": "on the street",
+      "topic": "地点介词",
+      "note": "英式常用 in the street，美式常用 on the street；建筑位置与路面活动语义有差别",
+      "ukExample": "Children were playing in the street.",
+      "usExample": "Children were playing on the street.",
+      "id": "d361"
+    },
+    {
+      "type": "usage",
+      "word": "sport",
+      "uk": "do sport / play sport",
+      "us": "play sports",
+      "topic": "运动名词",
+      "note": "英国 sport 通常是不可数泛指体育，美国 sports 泛指运动项目较常见",
+      "ukExample": "She enjoys playing sport.",
+      "usExample": "She enjoys playing sports.",
+      "id": "d362"
+    },
+    {
+      "type": "usage",
+      "word": "team",
+      "uk": "in a team",
+      "us": "on a team",
+      "topic": "介词搭配",
+      "note": "英国 in a team 较常见，美国 on a team 较常见；两种搭配有交叉",
+      "ukExample": "She plays in a football team.",
+      "usExample": "She plays on a soccer team.",
+      "id": "d363"
+    },
+    {
+      "type": "usage",
+      "word": "needn't",
+      "uk": "You needn't leave yet.",
+      "us": "You don't need to leave yet.",
+      "topic": "情态动词",
+      "note": "英国 needn't 作情态动词较常用，美国更常用 don't need to；两地均理解",
+      "ukExample": "You needn't pay now.",
+      "usExample": "You don't need to pay now.",
+      "id": "d364"
+    },
+    {
+      "type": "usage",
+      "word": "toward",
+      "uk": "towards",
+      "us": "toward",
+      "topic": "副词与介词形式",
+      "note": "英国 towards 较常见，美国 toward 较常见；两种形式双方都可使用",
+      "ukExample": "She walked towards the river.",
+      "usExample": "She walked toward the river.",
+      "id": "d365"
+    },
+    {
+      "type": "usage",
+      "word": "forward",
+      "uk": "forwards",
+      "us": "forward",
+      "topic": "方向副词",
+      "note": "英国副词 forwards 相对更常见，美国 forward 相对更常见；形容词通常用 forward",
+      "ukExample": "Take two steps forwards.",
+      "usExample": "Take two steps forward.",
+      "id": "d366"
+    },
+    {
+      "type": "usage",
+      "word": "backward",
+      "uk": "backwards",
+      "us": "backward",
+      "topic": "方向副词",
+      "note": "英国 backwards 相对常见；美国 backward 常见，另一形式也均可用",
+      "ukExample": "He stepped backwards.",
+      "usExample": "He stepped backward.",
+      "id": "d367"
+    },
+    {
+      "type": "usage",
+      "word": "write an email",
+      "uk": "write to the manager",
+      "us": "write the manager",
+      "topic": "动词句型",
+      "note": "英国往往保留 to；美国也常用 write somebody；两地都可用 write to",
+      "ukExample": "Please write to the manager.",
+      "usExample": "Please write the manager.",
+      "id": "d369"
+    },
+    {
+      "type": "usage",
+      "word": "couple of",
+      "uk": "a couple of days",
+      "us": "a couple days",
+      "topic": "数量短语",
+      "note": "美国口语可省略 of，英国标准书面语更倾向保留 of；正式写作保留 of 最稳妥",
+      "ukExample": "I'll be away for a couple of days.",
+      "usExample": "I'll be away for a couple days.",
+      "id": "d370"
+    },
+    {
+      "type": "usage",
+      "word": "make decision",
+      "uk": "take a decision / make a decision",
+      "us": "make a decision",
+      "topic": "动词搭配",
+      "note": "英国正式或政府语境可说 take a decision；美国更偏好 make a decision；英国也常用 make",
+      "ukExample": "The committee took a decision.",
+      "usExample": "The committee made a decision.",
+      "id": "d371"
+    },
+    {
+      "type": "usage",
+      "word": "quotation punctuation",
+      "uk": "'colour', and 'favour'",
+      "us": "\"color,\" and \"favor\"",
+      "topic": "标点与引号",
+      "note": "英式逻辑引号常把不属于引文的逗号置于引号外；美国编辑风格常将句号和逗号置于双引号内，并非语义差异",
+      "ukExample": "The words were 'colour', and 'favour'.",
+      "usExample": "The words were \"color,\" and \"favor.\"",
+      "id": "d372"
+    },
+    {
+      "type": "usage",
+      "word": "date format",
+      "uk": "18 November 2026",
+      "us": "November 18, 2026",
+      "topic": "日期格式",
+      "note": "英式常日—月—年，美式常月—日—年；11/12/2026 等纯数字日期很容易歧义",
+      "ukExample": "The meeting is on 18 November 2026.",
+      "usExample": "The meeting is on November 18, 2026.",
+      "id": "d373"
+    },
+    {
+      "type": "usage",
+      "word": "I've already sent it",
+      "uk": "I've already sent it.",
+      "us": "I already sent it.",
+      "topic": "完成时与过去时",
+      "note": "两地都接受现在完成时；美国口语相对更常使用一般过去时",
+      "ukExample": "I've already sent the report.",
+      "usExample": "I already sent the report.",
+      "id": "d374"
+    },
+    {
+      "type": "usage",
+      "word": "staff",
+      "uk": "The staff are ready.",
+      "us": "The staff is ready.",
+      "topic": "集体名词",
+      "note": "英国 staff 较常按成员复数处理；美国更可能看成整体单数，但两种表达也有交叉",
+      "ukExample": "The staff are waiting.",
+      "usExample": "The staff is waiting.",
+      "id": "d375"
+    },
+    {
+      "type": "meaning",
+      "word": "boot",
+      "uk": "通常可指汽车后备厢，也指靴子",
+      "us": "更常指靴子；汽车后备厢是 trunk",
+      "topic": "交通与服装",
+      "note": "英国车用 boot、美式车用 trunk；boot 在两地都可指靴子",
+      "ukExample": "Put the bags in the boot of the car.",
+      "usExample": "Put the bags in the trunk of the car.",
+      "id": "v27-372"
+    },
+    {
+      "type": "meaning",
+      "word": "garden",
+      "uk": "日常可指房屋周围的花园或户外空间",
+      "us": "通常指种植花草蔬菜的区域；yard 指住宅户外场地",
+      "topic": "居家",
+      "note": "不是每个 garden 都能直接译为“后院”；美国 garden 通常侧重种植",
+      "ukExample": "The children are playing in the garden.",
+      "usExample": "They planted tomatoes in the garden.",
+      "id": "v27-373"
+    },
+    {
+      "type": "meaning",
+      "word": "tea",
+      "uk": "除饮料外，英国部分地区还可指傍晚的一餐",
+      "us": "通常指茶饮料；表示一餐时更常说 dinner / supper",
+      "topic": "饮食与文化",
+      "note": "英国不同地区和家庭对 tea 的用法也不一致",
+      "ukExample": "We're having tea at six.",
+      "usExample": "I drink tea after dinner.",
+      "id": "v27-374"
+    },
+    {
+      "type": "meaning",
+      "word": "brackets",
+      "uk": "泛指括号，实际排版中常指圆括号",
+      "us": "brackets 单独使用常指方括号；圆括号常说 parentheses",
+      "topic": "写作与排版",
+      "note": "避免口头指导修改文本时产生歧义；具体指示可说 round brackets / square brackets",
+      "ukExample": "Put the phrase in brackets.",
+      "usExample": "Put the phrase in parentheses.",
+      "id": "v27-375"
+    },
+    {
+      "type": "meaning",
+      "word": "public holiday",
+      "uk": "英国国家或地方的公共假日（也可称 bank holiday）",
+      "us": "美国可指法定公众假日，federal holiday 有特定法律含义",
+      "topic": "工作与日程",
+      "note": "不同国家的法定假期制度不对应；bank holiday / federal holiday 不能直接互换",
+      "ukExample": "Monday is a bank holiday.",
+      "usExample": "Monday is a federal holiday.",
+      "id": "v27-376"
+    },
+    {
+      "type": "meaning",
+      "word": "coach",
+      "uk": "可指长途巴士，也可指训练者／教练",
+      "us": "更常突出体育或职业教练；长途巴士多说 bus",
+      "topic": "交通与体育",
+      "note": "coach 的“教练”义两地都有；英国 coach 的长途汽车义更常用",
+      "ukExample": "We took a coach to the airport.",
+      "usExample": "The coach reviewed the game footage.",
+      "id": "v27-377"
+    },
+    {
+      "type": "meaning",
+      "word": "trunk",
+      "uk": "可指大型箱子或树干，汽车行李厢多称 boot",
+      "us": "除这些含义外还常指汽车后备厢",
+      "topic": "交通与物品",
+      "note": "两地都有“树干”和“大箱子”含义；差别是汽车部件名称",
+      "ukExample": "They packed the old trunk before moving.",
+      "usExample": "I put the suitcase in the trunk.",
+      "id": "v27-379"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "windscreen",
+      "us": "windshield",
+      "zh": "汽车挡风玻璃",
+      "topic": "交通",
+      "note": "两地都指车辆前方玻璃，英式 windscreen、美式 windshield 更常见",
+      "ukExample": "The windscreen is fogged up.",
+      "usExample": "The windshield is fogged up.",
+      "id": "v27-381"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "windscreen wiper",
+      "us": "windshield wiper",
+      "zh": "挡风玻璃雨刷",
+      "topic": "交通",
+      "note": "车辆零件在说明书中可能用不同名称",
+      "ukExample": "Replace the windscreen wipers.",
+      "usExample": "Replace the windshield wipers.",
+      "id": "v27-382"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "hard shoulder",
+      "us": "shoulder",
+      "zh": "高速路应急停车带／路肩",
+      "topic": "交通",
+      "note": "两地道路结构和法规不同；并非所有 shoulder 都是可停车的应急车道",
+      "ukExample": "Stop on the hard shoulder only in an emergency.",
+      "usExample": "Pull onto the shoulder only if it is safe.",
+      "id": "v27-383"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "car boot",
+      "us": "car trunk",
+      "zh": "汽车后备厢",
+      "topic": "交通",
+      "note": "英国 boot 与美国 trunk 指汽车部件，不应与鞋靴混淆",
+      "ukExample": "Open the car boot.",
+      "usExample": "Open the car trunk.",
+      "id": "v27-384"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "full stop",
+      "us": "period",
+      "zh": "英文句号",
+      "topic": "标点与排版",
+      "note": "英国 full stop 和美国 period 用于语句标点；period 另有“时期”等含义",
+      "ukExample": "Add a full stop at the end.",
+      "usExample": "Add a period at the end.",
+      "id": "v27-385"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "exclamation mark",
+      "us": "exclamation point",
+      "zh": "感叹号",
+      "topic": "标点与排版",
+      "note": "两地并非互斥，但偏好差别明显",
+      "ukExample": "Avoid too many exclamation marks.",
+      "usExample": "Avoid too many exclamation points.",
+      "id": "v27-386"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "inverted commas",
+      "us": "quotation marks",
+      "zh": "引号",
+      "topic": "标点与排版",
+      "note": "美国也能理解 inverted commas，但一般使用 quotation marks",
+      "ukExample": "Put the title in inverted commas.",
+      "usExample": "Put the title in quotation marks.",
+      "id": "v27-387"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "round brackets",
+      "us": "parentheses",
+      "zh": "圆括号",
+      "topic": "标点与排版",
+      "note": "美国 brackets 常指方括号，明示 parentheses 更不含糊",
+      "ukExample": "Put the note in round brackets.",
+      "usExample": "Put the note in parentheses.",
+      "id": "v27-388"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "anti-clockwise",
+      "us": "counterclockwise",
+      "zh": "逆时针",
+      "topic": "科学与方向",
+      "note": "英国更常用 anticlockwise，美国更常用 counterclockwise；连字符可因编辑风格不同",
+      "ukExample": "Turn the knob anticlockwise.",
+      "usExample": "Turn the knob counterclockwise.",
+      "id": "v27-389"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "solicitor",
+      "us": "lawyer / attorney",
+      "zh": "律师（职业类型有差别）",
+      "topic": "法律",
+      "note": "英国 solicitor 是特定法律职业；美国 lawyer/attorney 并非同一资格结构，不能简单互换",
+      "ukExample": "She consulted a solicitor about the contract.",
+      "usExample": "She consulted an attorney about the contract.",
+      "id": "v27-390"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "football pitch",
+      "us": "soccer field",
+      "zh": "足球场",
+      "topic": "体育",
+      "note": "美国 football field 往往指美式橄榄球场，因此用 soccer field 消除歧义",
+      "ukExample": "The match is on the football pitch.",
+      "usExample": "The game is on the soccer field.",
+      "id": "v27-391"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "press-up",
+      "us": "push-up",
+      "zh": "俯卧撑",
+      "topic": "健身",
+      "note": "两地均能理解，但英国 press-up、美国 push-up 比较常见",
+      "ukExample": "He did twenty press-ups.",
+      "usExample": "He did twenty push-ups.",
+      "id": "v27-392"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "lorry driver",
+      "us": "truck driver",
+      "zh": "卡车司机",
+      "topic": "职场与交通",
+      "note": "英国 lorry、美国 truck 更常见",
+      "ukExample": "Her father is a lorry driver.",
+      "usExample": "Her father is a truck driver.",
+      "id": "v27-393"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "estate agent",
+      "us": "real estate agent",
+      "zh": "房地产中介人员",
+      "topic": "住房",
+      "note": "英国 estate agent、美国 real estate agent 常见；不同市场职业资质可能不同",
+      "ukExample": "Contact the estate agent about viewing the flat.",
+      "usExample": "Contact the real estate agent about viewing the apartment.",
+      "id": "v27-394"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "to let",
+      "us": "for rent",
+      "zh": "（房屋）招租",
+      "topic": "住房",
+      "note": "英国物业广告常用 to let，美国广告多写 for rent",
+      "ukExample": "The flat is advertised as 'to let'.",
+      "usExample": "The apartment is listed as 'for rent'.",
+      "id": "v27-395"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "fly-tipping",
+      "us": "illegal dumping",
+      "zh": "非法倾倒废物",
+      "topic": "环保与城市",
+      "note": "英国 fly-tipping 是常见法律／日常用词；美国多用 illegal dumping",
+      "ukExample": "Fly-tipping is prohibited here.",
+      "usExample": "Illegal dumping is prohibited here.",
+      "id": "v27-396"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "loo roll",
+      "us": "toilet paper",
+      "zh": "卫生纸",
+      "topic": "居家",
+      "note": "英国 loo roll 为口语表达；美国 toilet paper 中性通用",
+      "ukExample": "We need another loo roll.",
+      "usExample": "We need more toilet paper.",
+      "id": "v27-397"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "greengrocer",
+      "us": "produce seller",
+      "zh": "蔬果零售商",
+      "topic": "购物",
+      "note": "英国 greengrocer 指水果蔬菜零售商；美国并没有完全对应的高频单词",
+      "ukExample": "I bought apples at the greengrocer's.",
+      "usExample": "I bought apples from a produce seller.",
+      "id": "v27-398"
+    },
+    {
+      "type": "usage",
+      "word": "from Monday to Friday",
+      "uk": "Monday to Friday",
+      "us": "Monday through Friday",
+      "topic": "时间范围",
+      "note": "美国 through 明确包括周五；英国 to 在日期范围中通常亦包括终点，但正式时间表应写明",
+      "ukExample": "The office is open Monday to Friday.",
+      "usExample": "The office is open Monday through Friday.",
+      "id": "v27-399"
+    },
+    {
+      "type": "usage",
+      "word": "have you got",
+      "uk": "Have you got any questions?",
+      "us": "Do you have any questions?",
+      "topic": "提问与拥有",
+      "note": "两地两种说法均可用，英式更常出现 have you got；美式更偏好 do you have",
+      "ukExample": "Have you got a pen?",
+      "usExample": "Do you have a pen?",
+      "id": "v27-400"
+    },
+    {
+      "type": "usage",
+      "word": "get on well",
+      "uk": "I get on well with her.",
+      "us": "I get along well with her.",
+      "topic": "人际关系搭配",
+      "note": "英国常见 get on well (with)，美国更常说 get along well (with)；双方可理解",
+      "ukExample": "I get on well with my colleagues.",
+      "usExample": "I get along well with my coworkers.",
+      "id": "v27-402"
+    },
+    {
+      "type": "usage",
+      "word": "in future",
+      "uk": "In future, please check the date.",
+      "us": "In the future, please check the date.",
+      "topic": "时间副词短语",
+      "note": "英式 in future 往往指“从现在起”；in the future 可泛指将来，两者不应无条件互换",
+      "ukExample": "In future, please send the files first.",
+      "usExample": "In the future, please send the files first.",
+      "id": "v27-403"
+    },
+    {
+      "type": "usage",
+      "word": "fill in a form",
+      "uk": "fill in a form",
+      "us": "fill out a form",
+      "topic": "动词小品词",
+      "note": "两地都可用 fill in / fill out；美国 fill out 的偏好较明显",
+      "ukExample": "Please fill in the form.",
+      "usExample": "Please fill out the form.",
+      "id": "v27-404"
+    },
+    {
+      "type": "usage",
+      "word": "write the date",
+      "uk": "the 18th of November",
+      "us": "November eighteenth",
+      "topic": "日期读法",
+      "note": "书写与口语读法都有交叉；正式日期可统一写成 ISO 8601 以消除数字格式歧义",
+      "ukExample": "The meeting is on the eighteenth of November.",
+      "usExample": "The meeting is on November eighteenth.",
+      "id": "v27-405"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "drawing pin",
+      "us": "thumbtack",
+      "zh": "图钉",
+      "topic": "办公与学习",
+      "note": "英国常说 drawing pin，美国常说 thumbtack；pin 与 tack 的其他义项较多。",
+      "ukExample": "Pin the notice up with a drawing pin.",
+      "usExample": "Put the photo on the board with a thumbtack.",
+      "id": "d403"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "diversion",
+      "us": "detour",
+      "zh": "临时绕行路线",
+      "topic": "道路与交通",
+      "note": "英国道路标识更常见 diversion，美国更常用 detour；两地均存在 detour。",
+      "ukExample": "Follow the diversion around the roadworks.",
+      "usExample": "Follow the detour around the construction.",
+      "id": "d404"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "level crossing",
+      "us": "railroad crossing",
+      "zh": "铁路平交道口",
+      "topic": "铁路与出行",
+      "note": "美国还可说 grade crossing；英国 railway crossing 也能理解。",
+      "ukExample": "Stop before the level crossing.",
+      "usExample": "Stop before the railroad crossing.",
+      "id": "d405"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "railway carriage",
+      "us": "train car",
+      "zh": "铁路客车车厢",
+      "topic": "铁路与出行",
+      "note": "英国 carriage 也可指其他车厢；美国 railcar 可指多种铁路车辆。",
+      "ukExample": "Our seats are in the last carriage.",
+      "usExample": "Our seats are in the last train car.",
+      "id": "d406"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "staffroom",
+      "us": "teachers' lounge",
+      "zh": "教师休息室",
+      "topic": "校园生活",
+      "note": "英国学校常用 staffroom，美国学校可能称 teachers’ lounge；具体设施名称因学校而异。",
+      "ukExample": "The teachers are meeting in the staffroom.",
+      "usExample": "The teachers are meeting in the teachers' lounge.",
+      "id": "d407"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "brolly",
+      "us": "umbrella",
+      "zh": "雨伞（口语）",
+      "topic": "日常口语",
+      "note": "brolly 是英国非正式缩略语；umbrella 在英美均通用，不能把它看成美国专属词。",
+      "ukExample": "Have you got your brolly?",
+      "usExample": "Did you bring an umbrella?",
+      "id": "d408"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "knackered",
+      "us": "exhausted",
+      "zh": "筋疲力尽",
+      "topic": "口语语气",
+      "note": "knackered 是英国非正式表达，在美国相对不常见；exhausted 两地通用。",
+      "ukExample": "I'm absolutely knackered after work.",
+      "usExample": "I'm completely exhausted after work.",
+      "id": "d409"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "chuffed",
+      "us": "really pleased",
+      "zh": "非常高兴／满意",
+      "topic": "口语语气",
+      "note": "chuffed 是英国口语、偏非正式；really pleased 在两地均自然。",
+      "ukExample": "I'm chuffed with the result.",
+      "usExample": "I'm really pleased with the result.",
+      "id": "d410"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "fortnightly",
+      "us": "every two weeks",
+      "zh": "每两周一次",
+      "topic": "时间表达",
+      "note": "fortnightly 在英国更常见；英语中 biweekly 可能歧义为“每两周”或“每周两次”，重要场合宜避免。",
+      "ukExample": "The meetings are held fortnightly.",
+      "usExample": "The meetings are held every two weeks.",
+      "id": "d411"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "hire purchase",
+      "us": "installment plan",
+      "zh": "分期付款购买安排",
+      "topic": "购物与金融",
+      "note": "法律制度和合同安排并不完全一致，不能把两种金融产品视为严格同义词。",
+      "ukExample": "She bought the car on hire purchase.",
+      "usExample": "She bought the car on an installment plan.",
+      "id": "d412"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "off-licence",
+      "us": "liquor store",
+      "zh": "酒类零售店",
+      "topic": "购物与法律",
+      "note": "英国 off-licence 强调店外饮用销售许可；美国 liquor store 的许可和可售商品因州而异。",
+      "ukExample": "They stopped at the off-licence.",
+      "usExample": "They stopped at the liquor store.",
+      "id": "d413"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "ice cream van",
+      "us": "ice cream truck",
+      "zh": "流动冰淇淋售卖车",
+      "topic": "日常生活",
+      "note": "van 与 truck 均有更广泛的车辆义项，此处是更常见的地区搭配。",
+      "ukExample": "An ice cream van stopped outside.",
+      "usExample": "An ice cream truck stopped outside.",
+      "id": "d414"
+    },
+    {
+      "type": "vocabulary",
+      "uk": "dummy run",
+      "us": "dry run",
+      "zh": "试运行／预演",
+      "topic": "工作与技术",
+      "note": "两种表达两地都可用，但 dry run 在美国技术及工作语境尤其常见。",
+      "ukExample": "We did a dummy run before the event.",
+      "usExample": "We did a dry run before the event.",
+      "id": "d415"
+    },
+    {
+      "type": "meaning",
+      "word": "tea",
+      "uk": "除茶饮外，在英国部分地区和家庭还可指晚餐／傍晚的一餐",
+      "us": "通常是茶饮；指正餐时需要特别的语境",
+      "topic": "饮食文化",
+      "note": "英国也普遍用 tea 指茶；“tea = 晚餐”并非英国所有地区、阶层和语境都适用。",
+      "ukExample": "What are we having for tea tonight?",
+      "usExample": "Would you like some tea after dinner?",
+      "id": "d416"
+    },
+    {
+      "type": "meaning",
+      "word": "to table a motion",
+      "uk": "议事语境中通常指正式提出动议供讨论",
+      "us": "议事程序中通常指暂缓或搁置该动议",
+      "topic": "会议与法律",
+      "note": "这是高风险的程序性歧义；不同组织议事规则可能不同，正式会议务必核对规则。",
+      "ukExample": "The committee agreed to table a motion.",
+      "usExample": "The committee voted to table the motion.",
+      "id": "d417"
+    },
+    {
+      "type": "meaning",
+      "word": "wash up",
+      "uk": "常指餐后洗碗、洗餐具",
+      "us": "通常指洗手、洗脸或整理清洁自己；也可在具体语境中指洗碗",
+      "topic": "家务与生活",
+      "note": "英式 do the washing-up 是洗餐具；美式 do the dishes 更清楚。",
+      "ukExample": "Can you wash up after dinner?",
+      "usExample": "Go wash up before dinner.",
+      "id": "d418"
+    },
+    {
+      "type": "usage",
+      "word": "shall",
+      "uk": "Shall we …? / Shall I …?",
+      "us": "Should we …? / Do you want me to …?",
+      "topic": "建议与提议",
+      "note": "Shall we…? 两地均可用；美国日常口语偏少用 shall（法律、正式和建议语境除外）。",
+      "ukExample": "Shall we meet at six?",
+      "usExample": "Should we meet at six?",
+      "id": "d419"
+    },
+    {
+      "type": "usage",
+      "word": "gotten",
+      "uk": "have got（多数意义）",
+      "us": "have gotten（常表“获得／变得”）",
+      "topic": "动词形态",
+      "note": "两地在“已经拥有”这一义项都常用 have got；have gotten 是美国表达某些获得、变化意义的常见形式。",
+      "ukExample": "Things have got easier.",
+      "usExample": "Things have gotten easier.",
+      "id": "d420"
+    },
+    {
+      "type": "usage",
+      "word": "need not",
+      "uk": "needn’t / don’t need to",
+      "us": "don’t need to（口语较常见）",
+      "topic": "情态动词",
+      "note": "needn’t 在英国口语相对常见；美国也能理解，正式文体也可能使用。",
+      "ukExample": "You needn't bring anything.",
+      "usExample": "You don't need to bring anything.",
+      "id": "d421"
+    },
+    {
+      "type": "usage",
+      "word": "on the team",
+      "uk": "in the team / on the team",
+      "us": "on the team",
+      "topic": "介词搭配",
+      "note": "英国 in the team 常见，美国 on the team 较自然；两地都存在其他组合，依具体运动和语境而定。",
+      "ukExample": "She is in the team for Saturday.",
+      "usExample": "She's on the team this season.",
+      "id": "d422"
+    }
+  ]
+}
