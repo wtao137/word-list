@@ -1,0 +1,293 @@
+{
+  "engine": "Chromium standalone HTML injected into about:blank",
+  "version": "v63",
+  "sections": {
+    "collections": {
+      "single_current": true,
+      "no_left_rail": true,
+      "no_horizontal_overflow": true
+    },
+    "roots": {
+      "single_current": true,
+      "no_left_rail": true,
+      "no_horizontal_overflow": true
+    },
+    "semantics": {
+      "single_current": true,
+      "no_left_rail": true,
+      "no_horizontal_overflow": true
+    },
+    "dialect": {
+      "single_current": true,
+      "no_left_rail": true,
+      "no_horizontal_overflow": true
+    },
+    "prepositions": {
+      "single_current": true,
+      "no_left_rail": true,
+      "no_horizontal_overflow": true
+    },
+    "learner": {
+      "single_current": true,
+      "no_left_rail": true,
+      "no_horizontal_overflow": true
+    },
+    "core": {
+      "single_current": true,
+      "no_left_rail": true,
+      "no_horizontal_overflow": true
+    },
+    "va": {
+      "single_current": true,
+      "no_left_rail": true,
+      "no_horizontal_overflow": true
+    },
+    "saved": {
+      "single_current": true,
+      "no_left_rail": true,
+      "no_horizontal_overflow": true
+    },
+    "study": {
+      "single_current": true,
+      "no_left_rail": true,
+      "no_horizontal_overflow": true
+    },
+    "analysis": {
+      "single_current": true,
+      "no_left_rail": true,
+      "no_horizontal_overflow": true
+    },
+    "insights": {
+      "single_current": true,
+      "no_left_rail": true,
+      "no_horizontal_overflow": true
+    },
+    "all": {
+      "single_current": true,
+      "no_left_rail": true,
+      "no_horizontal_overflow": true
+    }
+  },
+  "themes": {
+    "light": {
+      "bg": "rgb(220, 233, 244)",
+      "fg": "rgb(23, 77, 117)",
+      "iconBg": "rgb(201, 225, 243)",
+      "before": "none",
+      "rect": {
+        "w": 211,
+        "h": 43
+      }
+    },
+    "dark": {
+      "bg": "rgb(26, 49, 72)",
+      "fg": "rgb(225, 240, 254)",
+      "iconBg": "rgb(45, 78, 108)",
+      "before": "none",
+      "rect": {
+        "w": 211,
+        "h": 43
+      }
+    }
+  },
+  "responsive": [
+    {
+      "width": 320,
+      "theme": "light",
+      "sw": 320,
+      "w": 320,
+      "choices": [
+        [
+          "自动",
+          "flex",
+          32
+        ],
+        [
+          "亮",
+          "flex",
+          30
+        ],
+        [
+          "暗",
+          "flex",
+          30
+        ]
+      ]
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "sw": 320,
+      "w": 320,
+      "choices": [
+        [
+          "自动",
+          "flex",
+          32
+        ],
+        [
+          "亮",
+          "flex",
+          30
+        ],
+        [
+          "暗",
+          "flex",
+          30
+        ]
+      ]
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "sw": 390,
+      "w": 390,
+      "choices": [
+        [
+          "自动",
+          "flex",
+          34
+        ],
+        [
+          "亮",
+          "flex",
+          30
+        ],
+        [
+          "暗",
+          "flex",
+          30
+        ]
+      ]
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "sw": 390,
+      "w": 390,
+      "choices": [
+        [
+          "自动",
+          "flex",
+          34
+        ],
+        [
+          "亮",
+          "flex",
+          30
+        ],
+        [
+          "暗",
+          "flex",
+          30
+        ]
+      ]
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "sw": 768,
+      "w": 768,
+      "choices": [
+        [
+          "自动",
+          "flex",
+          42
+        ],
+        [
+          "亮",
+          "flex",
+          50
+        ],
+        [
+          "暗",
+          "flex",
+          50
+        ]
+      ]
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "sw": 768,
+      "w": 768,
+      "choices": [
+        [
+          "自动",
+          "flex",
+          42
+        ],
+        [
+          "亮",
+          "flex",
+          50
+        ],
+        [
+          "暗",
+          "flex",
+          50
+        ]
+      ]
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "sw": 1440,
+      "w": 1440,
+      "choices": [
+        [
+          "自动",
+          "flex",
+          42
+        ],
+        [
+          "亮",
+          "flex",
+          50
+        ],
+        [
+          "暗",
+          "flex",
+          50
+        ]
+      ]
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "sw": 1440,
+      "w": 1440,
+      "choices": [
+        [
+          "自动",
+          "flex",
+          42
+        ],
+        [
+          "亮",
+          "flex",
+          50
+        ],
+        [
+          "暗",
+          "flex",
+          50
+        ]
+      ]
+    }
+  ],
+  "shots": [
+    "v63-home-1440-light.png",
+    "v63-home-1440-dark.png",
+    "v63-collections-1440-dark.png",
+    "v63-roots-1440-dark.png",
+    "v63-learner-1440-dark.png",
+    "v63-home-320-light.png",
+    "v63-home-320-dark.png",
+    "v63-home-390-light.png",
+    "v63-home-390-dark.png",
+    "v63-mobile-nav-390-dark.png"
+  ],
+  "errors": [],
+  "mobile_drawer": true
+}

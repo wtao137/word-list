@@ -1,0 +1,13 @@
+{
+  "name": "lexicon-language-index",
+  "private": true,
+  "version": "63.0.0",
+  "description": "Lexicon v63 \u2013 unified CSS and nuanced bilingual examples",
+  "scripts": {
+    "build:css": "node scripts/build_tailwind.mjs"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.1.10",
+    "postcss": "^8.5.6"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "version": "v63",
+  "pairs_added": [
+    "stationary",
+    "stationery",
+    "loose",
+    "excess",
+    "convenient",
+    "ironic",
+    "sarcastic",
+    "immigrant",
+    "emigrant",
+    "ingenious",
+    "ingenuous",
+    "affective",
+    "exasperate",
+    "obsolescent",
+    "disprove",
+    "prejudice",
+    "practise",
+    "equivocate",
+    "determinate",
+    "injection",
+    "detector",
+    "latch",
+    "exactitude"
+  ],
+  "usage_added": [
+    "stationary",
+    "stationery",
+    "loose",
+    "excess",
+    "convenient",
+    "ironic",
+    "sarcastic",
+    "immigrant",
+    "emigrant",
+    "ingenious",
+    "ingenuous",
+    "affective",
+    "exasperate",
+    "obsolescent",
+    "disprove",
+    "prejudice",
+    "practise",
+    "equivocate",
+    "injection",
+    "detector",
+    "latch"
+  ],
+  "contrast_added": [
+    [
+      "stationary",
+      "stationery"
+    ],
+    [
+      "ingenious",
+      "ingenuous"
+    ],
+    [
+      "immigrant",
+      "emigrant"
+    ],
+    [
+      "effective",
+      "affective"
+    ],
+    [
+      "ironic",
+      "sarcastic"
+    ],
+    [
+      "obsolete",
+      "obsolescent"
+    ],
+    [
+      "exasperate",
+      "exacerbate"
+    ]
+  ],
+  "counts": {
+    "pairs": 3665,
+    "usage": 899,
+    "contrasts": 230
+  }
+}

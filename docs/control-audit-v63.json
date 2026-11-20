@@ -1,0 +1,236 @@
+{
+  "version": "v63",
+  "controls": [
+    {
+      "theme": "light",
+      "module": "all",
+      "selector": "#filters-button",
+      "bg": "rgb(241, 246, 251)",
+      "fg": "rgb(36, 73, 97)",
+      "border": "rgb(185, 206, 222)",
+      "w": 86,
+      "contrast": 8.78
+    },
+    {
+      "theme": "light",
+      "module": "all",
+      "selector": ".lex-filter-more>summary",
+      "bg": "rgb(241, 246, 251)",
+      "fg": "rgb(36, 73, 97)",
+      "border": "rgb(185, 206, 222)",
+      "w": 1052.75,
+      "contrast": 8.78
+    },
+    {
+      "theme": "light",
+      "module": "all",
+      "selector": "#filters .lex-select-trigger",
+      "bg": "rgb(255, 255, 255)",
+      "fg": "rgb(23, 42, 61)",
+      "border": "rgb(156, 184, 208)",
+      "w": 255.4375,
+      "contrast": 14.63
+    },
+    {
+      "theme": "light",
+      "module": "all",
+      "selector": ".entry .expand-toggle",
+      "bg": "rgb(241, 246, 251)",
+      "fg": "rgb(36, 73, 97)",
+      "border": "rgb(185, 206, 222)",
+      "w": 38,
+      "contrast": 8.78
+    },
+    {
+      "theme": "light",
+      "module": "core",
+      "selector": "#filters-button",
+      "bg": "rgb(241, 246, 251)",
+      "fg": "rgb(36, 73, 97)",
+      "border": "rgb(185, 206, 222)",
+      "w": 86,
+      "contrast": 8.78
+    },
+    {
+      "theme": "light",
+      "module": "core",
+      "selector": ".lex-filter-more>summary",
+      "bg": "rgb(241, 246, 251)",
+      "fg": "rgb(36, 73, 97)",
+      "border": "rgb(185, 206, 222)",
+      "w": 1052.75,
+      "contrast": 8.78
+    },
+    {
+      "theme": "light",
+      "module": "core",
+      "selector": "#filters .lex-select-trigger",
+      "bg": "rgb(255, 255, 255)",
+      "fg": "rgb(23, 42, 61)",
+      "border": "rgb(156, 184, 208)",
+      "w": 255.4375,
+      "contrast": 14.63
+    },
+    {
+      "theme": "light",
+      "module": "core",
+      "selector": ".entry .expand-toggle",
+      "bg": "rgb(241, 246, 251)",
+      "fg": "rgb(36, 73, 97)",
+      "border": "rgb(185, 206, 222)",
+      "w": 38,
+      "contrast": 8.78
+    },
+    {
+      "theme": "light",
+      "module": "prepositions",
+      "selector": ".prep-search",
+      "bg": "rgb(241, 246, 251)",
+      "fg": "rgb(23, 42, 61)",
+      "border": "rgb(176, 182, 189)",
+      "w": 762.75,
+      "contrast": 13.46
+    },
+    {
+      "theme": "light",
+      "module": "semantics",
+      "selector": ".sem-search-shell",
+      "bg": "rgb(241, 246, 251)",
+      "fg": "rgb(23, 42, 61)",
+      "border": "rgb(185, 206, 222)",
+      "w": 846.71875,
+      "contrast": 13.46
+    },
+    {
+      "theme": "light",
+      "module": "semantics",
+      "selector": ".contrast-search",
+      "bg": "rgb(241, 246, 251)",
+      "fg": "rgb(23, 42, 61)",
+      "border": "rgb(176, 182, 189)",
+      "w": 420,
+      "contrast": 13.46
+    },
+    {
+      "theme": "dark",
+      "module": "all",
+      "selector": "#filters-button",
+      "bg": "rgb(36, 66, 93)",
+      "fg": "rgb(228, 241, 252)",
+      "border": "rgb(88, 123, 153)",
+      "w": 86,
+      "contrast": 9.09
+    },
+    {
+      "theme": "dark",
+      "module": "all",
+      "selector": ".lex-filter-more>summary",
+      "bg": "rgb(36, 66, 93)",
+      "fg": "rgb(228, 241, 252)",
+      "border": "rgb(88, 123, 153)",
+      "w": 1052.75,
+      "contrast": 9.09
+    },
+    {
+      "theme": "dark",
+      "module": "all",
+      "selector": "#filters .lex-select-trigger",
+      "bg": "rgb(36, 66, 93)",
+      "fg": "rgb(228, 241, 252)",
+      "border": "rgb(88, 123, 153)",
+      "w": 255.4375,
+      "contrast": 9.09
+    },
+    {
+      "theme": "dark",
+      "module": "all",
+      "selector": ".entry .expand-toggle",
+      "bg": "rgb(36, 66, 93)",
+      "fg": "rgb(228, 241, 252)",
+      "border": "rgb(88, 123, 153)",
+      "w": 38,
+      "contrast": 9.09
+    },
+    {
+      "theme": "dark",
+      "module": "core",
+      "selector": "#filters-button",
+      "bg": "rgb(36, 66, 93)",
+      "fg": "rgb(228, 241, 252)",
+      "border": "rgb(88, 123, 153)",
+      "w": 86,
+      "contrast": 9.09
+    },
+    {
+      "theme": "dark",
+      "module": "core",
+      "selector": ".lex-filter-more>summary",
+      "bg": "rgb(36, 66, 93)",
+      "fg": "rgb(228, 241, 252)",
+      "border": "rgb(88, 123, 153)",
+      "w": 1052.75,
+      "contrast": 9.09
+    },
+    {
+      "theme": "dark",
+      "module": "core",
+      "selector": "#filters .lex-select-trigger",
+      "bg": "rgb(36, 66, 93)",
+      "fg": "rgb(228, 241, 252)",
+      "border": "rgb(88, 123, 153)",
+      "w": 255.4375,
+      "contrast": 9.09
+    },
+    {
+      "theme": "dark",
+      "module": "core",
+      "selector": ".entry .expand-toggle",
+      "bg": "rgb(48, 84, 117)",
+      "fg": "rgb(228, 241, 252)",
+      "border": "rgb(165, 220, 255)",
+      "w": 38,
+      "contrast": 6.9
+    },
+    {
+      "theme": "dark",
+      "module": "prepositions",
+      "selector": ".prep-search",
+      "bg": "rgb(36, 66, 93)",
+      "fg": "rgb(237, 244, 252)",
+      "border": "rgb(88, 123, 153)",
+      "w": 762.75,
+      "contrast": 9.42
+    },
+    {
+      "theme": "dark",
+      "module": "semantics",
+      "selector": ".sem-search-shell",
+      "bg": "rgb(36, 66, 93)",
+      "fg": "rgb(237, 244, 252)",
+      "border": "rgb(88, 123, 153)",
+      "w": 846.71875,
+      "contrast": 9.42
+    },
+    {
+      "theme": "dark",
+      "module": "semantics",
+      "selector": ".contrast-search",
+      "bg": "rgb(36, 66, 93)",
+      "fg": "rgb(237, 244, 252)",
+      "border": "rgb(88, 123, 153)",
+      "w": 420,
+      "contrast": 9.42
+    }
+  ],
+  "screenshots": [
+    "v63-all-1440-light.png",
+    "v63-prepositions-1440-light.png",
+    "v63-semantics-1440-light.png",
+    "v63-all-1440-dark.png",
+    "v63-expanded-word-1440-dark.png",
+    "v63-prepositions-1440-dark.png",
+    "v63-semantics-1440-dark.png",
+    "v63-mobile-390-dark.png"
+  ],
+  "issues": []
+}

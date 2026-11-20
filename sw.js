@@ -1,7 +1,7 @@
-/* Lexicon v29: versioned, offline-first shell; no external network responses cached. */
+/* Lexicon v63: versioned, offline-first shell; no external network responses cached. */
 'use strict';
-const CACHE='lexicon-offline-v29-20261118-a';
-const CORE=['./','./manifest.webmanifest','./icons/lexicon.svg','./icons/icon-192.png','./icons/icon-512.png','./icons/icon-192-maskable.png','./icons/icon-512-maskable.png','./data/words-v28.json.gz','./data/regional-differences-v28.json'];
+const CACHE='lexicon-offline-v63-20261120-a';
+const CORE=['./','./manifest.webmanifest','./css/tailwind.css','./js/app.js','./icons/lexicon.svg','./icons/icon-192.png','./icons/icon-512.png','./icons/icon-192-maskable.png','./icons/icon-512-maskable.png','./data/words-v28.json.gz','./data/regional-differences-v28.json','./data/curated-bilingual-v63.json'];
 self.addEventListener('install',event=>{
   event.waitUntil((async()=>{
     const cache=await caches.open(CACHE);
