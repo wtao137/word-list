@@ -1,17 +1,9 @@
-# Lexicon v63 — 20 November 2026
+# Lexicon v73 — Shared navigation, example surfaces, content refinement
 
-## UI and CSS
-
-- Deleted 11 groups of obsolete dark-mode overrides, including high-specificity charcoal button and select backgrounds; these were responsible for unusually black search/filter/expand controls.
-- Added six light/dark semantic icon/control tokens and exposed them through Tailwind v4 CSS-first `@theme inline`; shared states use Tailwind `@apply` in the maintained component stylesheet.
-- Matched dropdown chevrons, details/expand toggles, filter actions, pagination arrows and specialized search input shells to the same palette, with consistent focus/hover colors.
-- No additional runtime style sheet; generated CSS remains the only loaded stylesheet.
-
-## Language
-
-- Added 23 hand-written paired English-Chinese definitions, 21 usage examples and 7 contrast guides; no existing base definitions were overwritten.
-- Focus: stationary/stationery, ingenious/ingenuous, immigrant/emigrant, affective/effective, ironic/sarcastic, obsolete/obsolescent, exacerbate/exasperate, and specialist terms including injection and detector.
-
-## Verification
-
-Screenshots and computed-style assertions in `docs/control-audit-v63.json`; Chromium navigation and responsive checks in `docs/browser-report-v63.json`. Windows binary compilation and archive integrity checked; Windows native execution remains unverified.
+- Standardized return navigation (word family, semantic atlas, preposition, topic and reading history) with a single accessible `lex-return-action` component and consistent icon, text, hover, focus and pressed states, in both themes.
+- Standardized close/dismiss icon controls and inset return banners while preserving existing event IDs and navigation behavior.
+- Replaced the hard-coded charcoal `In a sentence` example card with the established semantic inset surface; improved literary quotation typography and introduced a bilingual, semantic section heading.
+- Migrated leftover charcoal backgrounds in curated meaning, usage and detailed reading panels to existing surface-depth tokens. Removed conflicting dark-theme overrides, without adding a CSS file.
+- Expanded editorial explanations by 41 bilingual entries, 24 practical usage sets and 6 contrast guides; base 20,821 words unchanged.
+- Retains zero CSS `!important` in both sources and compiled CSS.
+- Tested 156 navigation/viewport section combinations, 11 active filter scopes per theme and representative Chromium examples; long-running full browser audit was not completed due to timeout. Windows binary is cross-compiled, not run on Windows.

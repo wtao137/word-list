@@ -1,0 +1,50 @@
+{
+  "version": "v73",
+  "scopes": {
+    "main": {
+      "light": 13.37,
+      "dark": 10.3
+    },
+    "dialect": {
+      "light": 13.37,
+      "dark": 10.3
+    },
+    "root": {
+      "light": 13.37,
+      "dark": 10.3
+    },
+    "root-members": {
+      "light": 13.37,
+      "dark": 10.3
+    },
+    "atlas": {
+      "light": 13.37,
+      "dark": 10.3
+    },
+    "semantic": {
+      "light": 13.37,
+      "dark": 10.3
+    },
+    "contrast": {
+      "light": 13.37,
+      "dark": 10.3
+    },
+    "prep": {
+      "light": 13.37,
+      "dark": 10.3
+    },
+    "prep-contrast": {
+      "light": 13.37,
+      "dark": 10.3
+    },
+    "prep-collocation": {
+      "light": 13.37,
+      "dark": 10.3
+    },
+    "learner": {
+      "light": 13.37,
+      "dark": 10.3
+    }
+  },
+  "errors": []
+}

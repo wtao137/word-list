@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Lexicon · The Word Studio",
+  "name": "Lexicon — Dictionary and Learning Studio",
   "short_name": "Lexicon",
-  "description": "研究词义、词根、英美差异并进行个性化记忆练习。",
+  "description": "通过系统化的双语词义、语境辨析与复习练习学习英语。",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -12,8 +12,8 @@
   "orientation": "any",
   "lang": "zh-CN",
   "dir": "ltr",
-  "background_color": "#f7f8f4",
-  "theme_color": "#315f45",
+  "background_color": "#f7f9fc",
+  "theme_color": "#1a5f93",
   "categories": [
     "education",
     "books"

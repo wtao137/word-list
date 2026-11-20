@@ -1,0 +1,32 @@
+{
+  "version": "v73",
+  "cases": 156,
+  "widths": [
+    390,
+    681,
+    768,
+    1000,
+    1001,
+    1440
+  ],
+  "sections": [
+    "all",
+    "collections",
+    "roots",
+    "semantics",
+    "dialect",
+    "prepositions",
+    "learner",
+    "core",
+    "va",
+    "saved",
+    "study",
+    "analysis",
+    "insights"
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "errors": []
+}

@@ -1,24 +1,35 @@
-# Lexicon v63 — Unified interactive controls
+# Lexicon v73 — Consistent navigation and semantic surfaces
 
-A bilingual vocabulary studio with 20,821 headwords, filtered dictionary search, regional usage, morphology and learning tools.
+Lexicon is a local-first bilingual dictionary and vocabulary learning studio. This release unifies eleven search controls and fixes dark-theme search, dropdown and inset-option surfaces using the established depth model. It also adds carefully edited English/Chinese explanations, usage patterns and contrasts.
 
-## Start
+## Run
 
-- Windows: extract `Lexicon-v63-PWA-Windows.zip` to a fresh folder, then launch `Lexicon-Start.exe` (default `http://127.0.0.1:8765`).
-- Web/PWA: deploy the Web ZIP to HTTPS or serve it locally; the service worker uses the v63 cache namespace.
-- One-file: open `Lexicon-v63-Standalone.html` in Chrome/Edge.
-- Linux: run `./Lexicon-Start-Linux`, with `-no-browser` to avoid opening a browser.
+- **Windows:** unpack `Lexicon-v73-PWA-Windows.zip` into a directory and run `Lexicon-Start.exe`. Default origin: `http://127.0.0.1:8765/`.
+- **Web / PWA:** deploy `Lexicon-v73-PWA-Web.zip` under an HTTPS site or localhost. Open `index.html` through the origin, not `file://`.
+- **Standalone:** open `Lexicon-v73-Standalone.html` in Chrome/Edge (offline with embedded word and editorial data).
+- **Upgrade from v72:** stop the server, extract `Lexicon-v73-Update-from-v72.zip` over the v72 directory, execute `Cleanup-Lexicon-v72.cmd`, restart **at the same port and browser profile** to preserve site-local review state. Browser site data is not cleared.
 
-## Styles
+## Semantic depth
 
-Only `src/styles/tokens.css` and `src/styles/app.css` are maintained; browsers load `css/tailwind.css` compiled with offline Tailwind v4. `scripts/build_tailwind.mjs` exposes icon/control semantic colors via `@theme inline` and `app.css` uses Tailwind `@apply` for the shared control family. Theme colors reside in tokens, not dark-mode hard-coded overlays. Avoid introducing new broad `!important` overrides.
+The three independent ideas are deliberately separated:
 
-The v63 changes specifically remove the old charcoal `!important` declarations affecting dark filter buttons, expand chevrons, selects and pagination; controls inherit semantic `--lx-icon-*` values. Do not clear browser site data when upgrading: it holds reading and study progress.
+- **Surface elevation** describes material and luminance (canvas, chrome, panel, raised workbench, floating content). `data-surface` explicitly annotates principal DOM nodes. `src/styles/tokens.css` owns the light/dark surface/border/shadow tokens; `src/styles/app.css` owns their component applications.
+- **Stack order** describes overlay behavior (sticky header, drawer scrim, drawer, semantic preview, dropdown, notice). It is controlled by named `--z-*` tokens. A surface can be *visually* raised without receiving a large z-index.
+- **Interaction state** describes hover, focus and selection. Ordinary reading rows remain flat; selectable cards lift only for a fine pointer; accessible focus remains visible and reduced-motion mode disables decoration transitions.
 
-## Data
+Shared control and depth contract: `docs/DESIGN-CONSISTENCY-v73.md`.
 
-Base dictionary: `data/words-v28.json.gz` (unchanged). Curated bilingual explanations: `data/curated-bilingual-v63.json`, with 3,665 paired definitions, 899 usage sets and 230 contrast guides. Only a subset has editorially reviewed English-Chinese sense correspondence; all 20,821 base words keep their original dictionary Chinese meanings.
+## Architecture
 
-## Build and test
+- `src/styles/tokens.css` + `src/styles/app.css` → one generated `css/tailwind.css` using Tailwind CSS v4. Both source sheets and the compiled CSS contain **zero `!important` declarations**.
+- `js/app.js` builds the dictionary and learning features from `data/words-v28.json.gz` and `data/curated-bilingual-v73.json`.
+- `Lexicon-Start.go` is the simple localhost server. It does not require Node.js at runtime. Run `node scripts/build_tailwind.mjs` for editable UI builds; run `python scripts/build_standalone.py` for the single HTML.
+- Test: `node scripts/style_check_v73.mjs`, `python scripts/check_data_v73.py`, `python scripts/browser_consistency_v73.py`, `python scripts/check_responsive_v73.py`, `python scripts/check_sections_v73.py`.
 
-`node scripts/build_tailwind.mjs` and `python scripts/build_standalone.py`, then run `python scripts/browser_controls_v63.py` and `python scripts/browser_smoke_v63.py` with Chromium and Playwright. The Windows executable is cross-compiled but not tested on a native Windows machine.
+The original 20,821 dictionary headwords remain unchanged. The curated editorial layer contains 4,093 bilingual explanations, 1,167 usage sets and 314 contrast guides; it is not a line-by-line translation of all original dictionary definitions.
+
+## Notes
+
+- Windows cross-build is verified as PE32+; Windows GUI usage requires real-device validation.
+- Browser screenshots and tests are made using Chromium and the same compiled stylesheet and app source as the release.
+- The base dictionary retains the attribution of its original sources; user learning data remains in browser local storage, not the installation directory.
